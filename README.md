@@ -64,6 +64,58 @@ Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL
 - [spiegel.de/app382013notfadeaway](http://spiegel.de/app382013notfadeaway)
 
 
+### Der SPIEGEL, Videos der Ausgabe 6/2013
+
+* http://spiegel.de/app62013familie
+* http://spiegel.de/app62013damaskus
+* http://spiegel.de/app62013pid
+* http://spiegel.de/app62013filmmarkt
+
+
+### Der SPIEGEL, Videos der Ausgabe 52/2012
+
+* http://spiegel.de/app522012priester
+* http://spiegel.de/app522012afghanistan
+* http://spiegel.de/app522012eugipfel
+* http://spiegel.de/app522012experiment	Das "Prizessin-Alice Experiment"
+* http://spiegel.de/app522012wisente
+* http://spiegel.de/app522012ludwig
+* http://spiegel.de/app522012kritik
+* http://spiegel.de/app522012
+* http://spiegel.de/app522012
+
+
+### Der SPIEGEL, Videos der Ausgabe 51/2012
+
+* http://spiegel.de/app512012akte
+* http://spiegel.de/app512012lara
+* http://spiegel.de/app512012irak
+* http://spiegel.de/app512012villen
+* http://spiegel.de/app512012himjar
+* http://spiegel.de/app512012grimm
+* http://spiegel.de/app512012bbi
+
+
+### Der SPIEGEL, Videos der Ausgabe 50/2012
+
+* http://spiegel.de/app502012beck
+* http://spiegel.de/app502012ikea
+* http://spiegel.de/app502012drohnen
+* http://spiegel.de/app502012callofduty
+
+
+### Der SPIEGEL, Videos der Ausgabe 43/2012
+
+* http://spiegel.de/app432012afghanistan
+* http://spiegel.de/app432012microsoft
+* http://spiegel.de/app432012google
+* http://spiegel.de/app432012obama
+* http://spiegel.de/app432012gaddafi
+* http://spiegel.de/app432012ukraine
+* http://spiegel.de/app432012welt
+* http://spiegel.de/app432012nick
+
+
 --
 
 Copy & paste template:
