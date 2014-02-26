@@ -7,13 +7,13 @@ Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL
 
 
 ### Der SPIEGEL - Die Videos der Ausgabe 9/2014
-- [spiegel.de/app92014staatsanwaelte](http://http://spiegel.de/app92014staatsanwaelte)
-- [spiegel.de/app92014whatsapp](http://http://spiegel.de/app92014whatsapp)
-- [spiegel.de/app92014kinderapps](http://http://spiegel.de/app92014kinderapps)
-- [spiegel.de/app92014philomena](http://http://spiegel.de/app92014philomena)
-- [spiegel.de/app92014sepsis](http://http://spiegel.de/app92014sepsis)
-- [spiegel.de/app92014ice](http://http://spiegel.de/app92014ice)
-- [spiegel.de/app92014hoeness](http://http://spiegel.de/app92014hoeness)
+- [spiegel.de/app92014staatsanwaelte](http://spiegel.de/app92014staatsanwaelte)
+- [spiegel.de/app92014whatsapp](http://spiegel.de/app92014whatsapp)
+- [spiegel.de/app92014kinderapps](http://spiegel.de/app92014kinderapps)
+- [spiegel.de/app92014philomena](http://spiegel.de/app92014philomena)
+- [spiegel.de/app92014sepsis](http://spiegel.de/app92014sepsis)
+- [spiegel.de/app92014ice](http://spiegel.de/app92014ice)
+- [spiegel.de/app92014hoeness](http://spiegel.de/app92014hoeness)
 - ...und ein link zu einem Filmtrailer, QR-code ohne URL-Angabe
 
 
