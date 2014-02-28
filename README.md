@@ -12,7 +12,7 @@ Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL
 - [spiegel.de/app92014kinderapps](http://spiegel.de/app92014kinderapps) Kinder werden zur Kasse gebeten
 - [spiegel.de/app92014philomena](http://spiegel.de/app92014philomena)
 - [spiegel.de/app92014sepsis](http://spiegel.de/app92014sepsis) Blutvergiftung
-- [spiegel.de/app92014ice](http://spiegel.de/app92014ice)
+- [spiegel.de/app92014ice](http://spiegel.de/app92014ice) Der ICE Velaro D
 - [spiegel.de/app92014hoeness](http://spiegel.de/app92014hoeness) Ulrich Hoeness und die Steueraffäre
 - ...und ein link zu einem Filmtrailer, QR-code ohne URL-Angabe
 
@@ -40,7 +40,7 @@ Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL
 
 ### Der SPIEGEL - Die Videos der Ausgabe 6/2014
 - [spiegel.de/app62014sterbehilfe](http://spiegel.de/app62014sterbehilfe)
-- [spiegel.de/app62014wolfsstreit](http://spiegel.de/app62014wolfsstreit)
+- [spiegel.de/app62014wolfsstreit](http://spiegel.de/app62014wolfsstreit) The Wolf of Wall Street
 - [spiegel.de/app62014un](http://spiegel.de/app62014un)
 - [spiegel.de/app62014pakistan](http://spiegel.de/app62014pakistan)
 - [spiegel.de/app62014monumentsmen](http://spiegel.de/app62014monumentsmen)
@@ -75,7 +75,7 @@ Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL
 ### Der SPIEGEL - Die Videos der Ausgabe 1/2014
 - [spiegel.de/app012014weltkrieg](http://spiegel.de/app012014weltkrieg)
 - [spiegel.de/app012014schule](http://spiegel.de/app012014schule)
-- [spiegel.de/app012014chodorkowski](http://spiegel.de/app012014chodorkowski)
+- [spiegel.de/app012014chodorkowski](http://spiegel.de/app012014chodorkowski) Der Werdegang Chodorkowskis
 - [spiegel.de/app012014orthodoxe](http://spiegel.de/app012014orthodoxe)
 
 
