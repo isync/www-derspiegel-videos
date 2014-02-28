@@ -9,11 +9,11 @@ Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL
 ### Der SPIEGEL - Die Videos der Ausgabe 9/2014
 - [spiegel.de/app92014staatsanwaelte](http://spiegel.de/app92014staatsanwaelte)
 - [spiegel.de/app92014whatsapp](http://spiegel.de/app92014whatsapp)
-- [spiegel.de/app92014kinderapps](http://spiegel.de/app92014kinderapps)
+- [spiegel.de/app92014kinderapps](http://spiegel.de/app92014kinderapps) Kinder werden zur Kasse gebeten
 - [spiegel.de/app92014philomena](http://spiegel.de/app92014philomena)
-- [spiegel.de/app92014sepsis](http://spiegel.de/app92014sepsis)
+- [spiegel.de/app92014sepsis](http://spiegel.de/app92014sepsis) Blutvergiftung
 - [spiegel.de/app92014ice](http://spiegel.de/app92014ice)
-- [spiegel.de/app92014hoeness](http://spiegel.de/app92014hoeness)
+- [spiegel.de/app92014hoeness](http://spiegel.de/app92014hoeness) Ulrich Hoeness und die Steueraffäre
 - ...und ein link zu einem Filmtrailer, QR-code ohne URL-Angabe
 
 
@@ -54,11 +54,11 @@ Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL
 - [spiegel.de/app42014bundesbank](http://spiegel.de/app42014bundesbank)
 - [spiegel.de/app42014hollande](http://spiegel.de/app42014hollande)
 - [spiegel.de/app42014ecuador](http://spiegel.de/app42014ecuador)
-- [spiegel.de/app42014bredekamp](http://spiegel.de/app42014bredekamp)
+- [spiegel.de/app42014bredekamp](http://spiegel.de/app42014bredekamp) Gefälschtes Galilei Manuskrift
 - [spiegel.de/app42014filmkritik](http://spiegel.de/app42014filmkritik)
 - [spiegel.de/app42014pechstein](http://spiegel.de/app42014pechstein)
 - [spiegel.de/app42014migraene](http://spiegel.de/app42014migraene)
-- [spiegel.de/app42014rosetta](http://spiegel.de/app42014rosetta)
+- [spiegel.de/app42014rosetta](http://spiegel.de/app42014rosetta) Die Raumfahrtmission Rosetta
 - [spiegel.de/app42014stromberg](http://spiegel.de/app42014stromberg)
 - ...und ein link zu einem Filmtrailer, QR-code ohne URL-Angabe
 
@@ -83,7 +83,7 @@ Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL
 - [spiegel.de/app522014vonderleyen](http://spiegel.de/app522013vonderleyen)
 - [spiegel.de/app522013tafel](http://spiegel.de/app522013tafel)
 - [spiegel.de/app522013nsa](http://spiegel.de/app522013nsa)
-- [spiegel.de/app522013jarmusch](http://spiegel.de/app522013jarmusch)
+- [spiegel.de/app522013jarmusch](http://spiegel.de/app522013jarmusch) Jim Jarmusch
 
 
 ### Der SPIEGEL - Die Videos der Ausgabe 43/2013
@@ -93,7 +93,7 @@ Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL
 ### Der SPIEGEL - Die Videos der Ausgabe 38/2013
 - [spiegel.de/app382013rhetorik](http://spiegel.de/app382013rhetorik)
 - [spiegel.de/app382013rassismus](http://spiegel.de/app382013rassismus)
-- [spiegel.de/app382013stewardessen](http://spiegel.de/app382013stewardessen)
+- [spiegel.de/app382013stewardessen](http://spiegel.de/app382013stewardessen) Etihad Airlines Recruitment
 - [spiegel.de/app382013rumsfeld](http://spiegel.de/app382013rumsfeld)
 - [spiegel.de/app382013indien](http://spiegel.de/app382013indien)
 - [spiegel.de/app382013londontaxi](http://spiegel.de/app382013londontaxi)
