@@ -50,6 +50,42 @@ Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL
 - ...und ein link zu einem Filmtrailer, QR-code ohne URL-Angabe
 
 
+### Der SPIEGEL - Die Videos der Ausgabe 4/2014
+- [spiegel.de/app42014bundesbank](http://spiegel.de/app42014bundesbank)
+- [spiegel.de/app42014hollande](http://spiegel.de/app42014hollande)
+- [spiegel.de/app42014ecuador](http://spiegel.de/app42014ecuador)
+- [spiegel.de/app42014bredekamp](http://spiegel.de/app42014bredekamp)
+- [spiegel.de/app42014filmkritik](http://spiegel.de/app42014filmkritik)
+- [spiegel.de/app42014pechstein](http://spiegel.de/app42014pechstein)
+- [spiegel.de/app42014migraene](http://spiegel.de/app42014migraene)
+- [spiegel.de/app42014rosetta](http://spiegel.de/app42014rosetta)
+- [spiegel.de/app42014stromberg](http://spiegel.de/app42014stromberg)
+- ...und ein link zu einem Filmtrailer, QR-code ohne URL-Angabe
+
+
+### Der SPIEGEL - Die Videos der Ausgabe 3/2014
+- [spiegel.de/app32014wallstreet](http://spiegel.de/app32014wallstreet)
+- [spiegel.de/app32014aiweiwei](http://spiegel.de/app32014aiweiwei)
+- [spiegel.de/app32014fluesse](http://spiegel.de/app32014fluesse)
+- [spiegel.de/app32014atouchofsin](http://spiegel.de/app32014atouchofsin)
+- ...und ein Link zum "Spiegelspiel": spiegel.de/spiegelspiel
+- ...und ein link zu einem Filmtrailer, QR-code ohne URL-Angabe
+
+
+### Der SPIEGEL - Die Videos der Ausgabe 1/2014
+- [spiegel.de/app12014weltkrieg](http://spiegel.de/app12014weltkrieg)
+- [spiegel.de/app12014schule](http://spiegel.de/app12014schule)
+- [spiegel.de/app12014chodorkowski](http://spiegel.de/app12014chodorkowski)
+- [spiegel.de/app12014orthodoxe](http://spiegel.de/app12014orthodoxe)
+
+
+### Der SPIEGEL - Die Videos der Ausgabe 52/2013
+- [spiegel.de/app522014vonderleyen](http://spiegel.de/app522013vonderleyen)
+- [spiegel.de/app522013tafel](http://spiegel.de/app522013tafel)
+- [spiegel.de/app522013nsa](http://spiegel.de/app522013nsa)
+- [spiegel.de/app522013jarmusch](http://spiegel.de/app522013jarmusch)
+
+
 ### Der SPIEGEL - Die Videos der Ausgabe 43/2013
 - [spiegel.de/app432013gravity](http://spiegel.de/app432013gravity)
 
