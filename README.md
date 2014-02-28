@@ -73,10 +73,10 @@ Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL
 
 
 ### Der SPIEGEL - Die Videos der Ausgabe 1/2014
-- [spiegel.de/app12014weltkrieg](http://spiegel.de/app12014weltkrieg)
-- [spiegel.de/app12014schule](http://spiegel.de/app12014schule)
-- [spiegel.de/app12014chodorkowski](http://spiegel.de/app12014chodorkowski)
-- [spiegel.de/app12014orthodoxe](http://spiegel.de/app12014orthodoxe)
+- [spiegel.de/app012014weltkrieg](http://spiegel.de/app012014weltkrieg)
+- [spiegel.de/app012014schule](http://spiegel.de/app012014schule)
+- [spiegel.de/app012014chodorkowski](http://spiegel.de/app012014chodorkowski)
+- [spiegel.de/app012014orthodoxe](http://spiegel.de/app012014orthodoxe)
 
 
 ### Der SPIEGEL - Die Videos der Ausgabe 52/2013
