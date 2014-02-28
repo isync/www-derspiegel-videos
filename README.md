@@ -58,12 +58,12 @@ Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL
 - [spiegel.de/app42014bundesbank](http://spiegel.de/app42014bundesbank)
 - [spiegel.de/app42014hollande](http://spiegel.de/app42014hollande)
 - [spiegel.de/app42014ecuador](http://spiegel.de/app42014ecuador)
-- [spiegel.de/app42014bredekamp](http://spiegel.de/app42014bredekamp) Gefälschtes Galilei Manuskrift
+- [spiegel.de/app42014bredekamp](http://spiegel.de/app42014bredekamp) Gefälschter Galilei "Codex"
 - [spiegel.de/app42014filmkritik](http://spiegel.de/app42014filmkritik)
 - [spiegel.de/app42014pechstein](http://spiegel.de/app42014pechstein)
 - [spiegel.de/app42014migraene](http://spiegel.de/app42014migraene)
 - [spiegel.de/app42014rosetta](http://spiegel.de/app42014rosetta) Die Raumfahrtmission Rosetta
-- [spiegel.de/app42014stromberg](http://spiegel.de/app42014stromberg)
+- [spiegel.de/app42014stromberg](http://spiegel.de/app42014stromberg) Alexander Kühns TV-Ekel Top 5
 - ...und ein link zu einem Filmtrailer, QR-code ohne URL-Angabe
 
 
