@@ -7,6 +7,12 @@ Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL
 
 
 ### Der SPIEGEL - Die Videos der Ausgabe 10/2014
+- ein QR code ohne URL
+- [spiegel.de/app102014google](http://spiegel.de/app102014google)
+- [spiegel.de/app102014kambodscha](http://spiegel.de/app102014kambodscha)
+- [spiegel.de/app102014branson](http://spiegel.de/app102014branson)
+- [spiegel.de/app102014vorbehalt](http://spiegel.de/app102014vorbehalt)
+- [spiegel.de/app102014schach](http://spiegel.de/app102014schach)
 - [spiegel.de/app102014filmkritik](http://spiegel.de/app102014filmkritik) Trailer "Im August in Osage County" (August: Osage County)
 
 
