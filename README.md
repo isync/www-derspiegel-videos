@@ -8,6 +8,14 @@ Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL
 
 ### Der SPIEGEL - Die Videos der Ausgabe 11/2014
 - [spiegel.de/app112014ukraine](http://spiegel.de/app112014ukraine)
+- [spiegel.de/app112014nierenkranker](http://spiegel.de/app112014nierenkranker)
+- [spiegel.de/app112014crystalmeth](http://spiegel.de/app112014crystalmeth)
+- [spiegel.de/app112014philippinen](http://spiegel.de/app112014philippinen)
+- [spiegel.de/app112014lenin](http://spiegel.de/app112014lenin)
+- [spiegel.de/app112014car](http://spiegel.de/app112014car) Christliche Milizen gegen muslimische Nomaden
+- [spiegel.de/app112014gv](http://spiegel.de/app112014gv) "Global Village": Arabische Gäste in der Schweiz
+- [spiegel.de/app112014formel1](http://spiegel.de/app112014formel1) Kimi Räikönnen
+- ...und ein link zu einem Filmtrailer, QR-code ohne URL-Angabe (Die Bücherdiebin)
 
 
 ### Der SPIEGEL - Die Videos der Ausgabe 10/2014
