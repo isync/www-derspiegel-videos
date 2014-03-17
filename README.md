@@ -7,9 +7,15 @@ Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL
 
 
 ### Der SPIEGEL - Die Videos der Ausgabe 12/2014
-- [spiegel.de/app122014hoeness](http://spiegel.de/app122014hoeness)
+- [spiegel.de/app122014demographie](http://spiegel.de/app122014demographie)
+- [spiegel.de/app122014ostukraine](http://spiegel.de/app122014ostukraine)
 - [spiegel.de/app122014krim](http://spiegel.de/app122014krim)
-- ...und ein link zu einem Filmtrailer, QR-code ohne URL-Angabe 
+- [spiegel.de/app122014hoeness](http://spiegel.de/app122014hoeness)
+- [spiegel.de/app122014lego](http://spiegel.de/app122014lego)
+- [spiegel.de/app122014missbrauch](http://spiegel.de/app122014missbrauch)
+- [spiegel.de/app122014barenboim](http://spiegel.de/app122014barenboim)
+- [spiegel.de/app122014aktionskunst](http://spiegel.de/app122014aktionskunst)
+- ...und ein link zu einem Filmtrailer, QR-code ohne URL-Angabe (Kreuzweg)
 
 
 ### Der SPIEGEL - Die Videos der Ausgabe 11/2014
