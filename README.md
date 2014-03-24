@@ -6,6 +6,17 @@ Seit einigen Monaten nun veröffentlicht *Der SPIEGEL* mit jeder Ausgabe *Videos
 Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL App* nicht benutze, soll mein "Getippe" wenigstens anderen zugute kommen. Daher hier die Videos zu jeder Ausgabe, simpel als Text-Dokument, quasi als Anti-App ;) oder bis jemand hier ne App dazu baut... Manchmal komplett, manchmal nur das, was ich selbst geschaut habe:
 
 
+### Der SPIEGEL - Die Videos der Ausgabe 13/2014
+- [spiegel.de/app132014auftragskiller](http://spiegel.de/app132014auftragskiller)
+- [spiegel.de/app132014ukraine](http://spiegel.de/app132014ukraine)
+- [spiegel.de/app132014nsa](http://spiegel.de/app132014nsa)
+- [spiegel.de/app132014bigwave](http://spiegel.de/app132014bigwave)
+- [spiegel.de/app132014flugzeuge](http://spiegel.de/app132014flugzeuge)
+- [spiegel.de/app132014her](http://spiegel.de/app132014her) Ausschnitte aus "Her" (Spike Jonze)
+- [spiegel.de/app132014kritik](http://spiegel.de/app132014kritik) "The Return of the First Venger"
+- ...und ein link zu einem Filmtrailer, QR-code ohne URL-Angabe ("Der Hundertjährige, der ...")
+
+
 ### Der SPIEGEL - Die Videos der Ausgabe 12/2014
 - [spiegel.de/app122014demographie](http://spiegel.de/app122014demographie)
 - [spiegel.de/app122014ostukraine](http://spiegel.de/app122014ostukraine)
