@@ -13,7 +13,7 @@ Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL
 - [spiegel.de/app132014bigwave](http://spiegel.de/app132014bigwave)
 - [spiegel.de/app132014flugzeuge](http://spiegel.de/app132014flugzeuge)
 - [spiegel.de/app132014her](http://spiegel.de/app132014her) Ausschnitte aus "Her" (Spike Jonze)
-- [spiegel.de/app132014kritik](http://spiegel.de/app132014kritik) "The Return of the First Venger"
+- [spiegel.de/app132014kritik](http://spiegel.de/app132014kritik) "The Return of the First Avenger"
 - ...und ein link zu einem Filmtrailer, QR-code ohne URL-Angabe ("Der Hundertjährige, der ...")
 
 
