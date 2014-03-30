@@ -6,6 +6,14 @@ Seit einigen Monaten nun veröffentlicht *Der SPIEGEL* mit jeder Ausgabe *Videos
 Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL App* nicht benutze, soll mein "Getippe" wenigstens anderen zugute kommen. Daher hier die Videos zu jeder Ausgabe, simpel als Text-Dokument, quasi als Anti-App ;) oder bis jemand hier ne App dazu baut... Manchmal komplett, manchmal nur das, was ich selbst geschaut habe:
 
 
+### Der SPIEGEL - Die Videos der Ausgabe 14/2014
+- [spiegel.de/app142014aiweiwei](http://spiegel.de/app142014aiweiwei)
+- [spiegel.de/app142014ukraine](http://spiegel.de/app142014ukraine)
+- ...
+- ...und ein link zu einem Filmtrailer, QR-code ohne URL-Angabe
+
+
+
 ### Der SPIEGEL - Die Videos der Ausgabe 13/2014
 - [spiegel.de/app132014auftragskiller](http://spiegel.de/app132014auftragskiller)
 - [spiegel.de/app132014ukraine](http://spiegel.de/app132014ukraine)
