@@ -14,7 +14,7 @@ Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL
 - [spiegel.de/app142014urknall](http://spiegel.de/app142014urknall)
 - [spiegel.de/app142014park](http://spiegel.de/app142014park)
 - [spiegel.de/app142014oldtimer](http://spiegel.de/app142014oldtimer)
-- ...und ein link zu einem Filmtrailer, QR-code ohne URL-Angabe (Snowpierce)r
+- ...und ein link zu einem Filmtrailer, QR-code ohne URL-Angabe (Snowpiercer)
 
 
 
