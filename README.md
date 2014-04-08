@@ -6,6 +6,18 @@ Seit einigen Monaten nun veröffentlicht *Der SPIEGEL* mit jeder Ausgabe *Videos
 Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL App* nicht benutze, soll mein "Getippe" wenigstens anderen zugute kommen. Daher hier die Videos zu jeder Ausgabe, simpel als Text-Dokument, quasi als Anti-App ;) oder bis jemand hier ne App dazu baut... Manchmal komplett, manchmal nur das, was ich selbst geschaut habe:
 
 
+### Der SPIEGEL - Die Videos der Ausgabe 15/2014
+- [spiegel.de/app152014lufthansa](http://spiegel.de/app152014lufthansa)
+- [spiegel.de/app152014valley](http://spiegel.de/app152014valley)
+- [spiegel.de/app152014niedringhaus](http://spiegel.de/app152014niedringhaus)
+- [spiegel.de/app152014frankreich](http://spiegel.de/app152014frankreich)
+- [spiegel.de/app152014erdogan](http://spiegel.de/app152014erdogan)
+- [spiegel.de/app152014beirut](http://spiegel.de/app152014beirut)
+- [spiegel.de/app152014aischepervers](http://spiegel.de/app152014aischepervers)
+- [spiegel.de/app152014noah](http://spiegel.de/app152014noah)
+- ...und ein link zu einem Filmtrailer, QR-code ohne URL-Angabe (Die Bestimmung - Divergent)
+
+
 ### Der SPIEGEL - Die Videos der Ausgabe 14/2014
 - [spiegel.de/app142014verzicht](http://spiegel.de/app142014verzicht)
 - [spiegel.de/app142014ukraine](http://spiegel.de/app142014ukraine)
