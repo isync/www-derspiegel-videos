@@ -12,7 +12,7 @@ Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL
 - [spiegel.de/app162014werwolf](http://spiegel.de/app162014werwolf)
 - [spiegel.de/app162014ukraine](http://spiegel.de/app162014ukraine)
 - [spiegel.de/app162014bauarbeiter](http://spiegel.de/app162014bauarbeiter)
-- [spiegel.de/app162014hypnose](http://spiegel.de/app162014hypnose)
+- [spiegel.de/app162014hypnotiseur](http://spiegel.de/app162014hypnotiseur) (URL im Heft falsch)
 - [spiegel.de/app162014allergien](http://spiegel.de/app162014allergien)
 - [spiegel.de/app162014ysl](http://spiegel.de/app162014ysl) Film: Yves Saint Laurent
 - ...und ein link zu einem Filmtrailer, QR-code ohne URL-Angabe (Lauf, Junge, lauf)
