@@ -6,6 +6,18 @@ Seit einigen Monaten nun veröffentlicht *Der SPIEGEL* mit jeder Ausgabe *Videos
 Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL App* nicht benutze, soll mein "Getippe" wenigstens anderen zugute kommen. Daher hier die Videos zu jeder Ausgabe, simpel als Text-Dokument, quasi als Anti-App ;) oder bis jemand hier ne App dazu baut... Manchmal komplett, manchmal nur das, was ich selbst geschaut habe:
 
 
+### Der SPIEGEL - Die Videos der Ausgabe 17/2014
+- [spiegel.de/app172014kunduz](http://spiegel.de/app172014kunduz)
+- [spiegel.de/app172014mutter](http://spiegel.de/app172014mutter)
+- [spiegel.de/app172014reisebloggerin](http://spiegel.de/app172014reisebloggerin)
+- [spiegel.de/app172014russland](http://spiegel.de/app172014russland) Neef über Russland
+- [spiegel.de/app172014virunga](http://spiegel.de/app172014virunga) Soco sucht Öl
+- [spiegel.de/app172014rom](http://spiegel.de/app172014rom) Niedergang Roms
+- [spiegel.de/app172014caperay](http://spiegel.de/app172014caperay) An Bord der Cape Ray
+- [spiegel.de/app172014transcendence](http://spiegel.de/app172014transcendence)
+- ...und ein link zu einem Filmtrailer, QR-code ohne URL-Angabe (Gabrielle)
+
+
 ### Der SPIEGEL - Die Videos der Ausgabe 16/2014
 - [spiegel.de/app162014liebesschwindler](http://spiegel.de/app162014liebesschwindler)
 - [spiegel.de/app162014ramelow](http://spiegel.de/app162014ramelow)
