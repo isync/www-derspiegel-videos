@@ -11,7 +11,7 @@ Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL
 - [spiegel.de/app182014lindner](http://spiegel.de/app182014lindner)
 - [spiegel.de/app182014zschaepe](http://spiegel.de/app182014zschaepe)
 - [spiegel.de/app182014airbnb](http://spiegel.de/app182014airbnb) Osang über den Mietmarkt in New Yokr
-- [spiegel.de/app182014motorrad](http://spiegel.de/app182014motorrad) Energica Ego
+- [spiegel.de/app182014motorrad](http://spiegel.de/app182014motorrad) Wüst fährt die Brammo "Impulse"
 - [spiegel.de/app182014bienen](http://spiegel.de/app182014bienen)
 - [spiegel.de/app182014pop](http://spiegel.de/app182014pop) K-Pop
 - [spiegel.de/app182014kritik](http://spiegel.de/app182014kritik) Film: "Die Erfindung der Liebe"
