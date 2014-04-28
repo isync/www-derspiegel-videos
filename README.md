@@ -6,6 +6,18 @@ Seit einigen Monaten nun veröffentlicht *Der SPIEGEL* mit jeder Ausgabe *Videos
 Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL App* nicht benutze, soll mein "Getippe" wenigstens anderen zugute kommen. Daher hier die Videos zu jeder Ausgabe, simpel als Text-Dokument, quasi als Anti-App ;) oder bis jemand hier ne App dazu baut... Manchmal komplett, manchmal nur das, was ich selbst geschaut habe:
 
 
+### Der SPIEGEL - Die Videos der Ausgabe 18/2014
+- [spiegel.de/app182014ukraine](http://spiegel.de/app182014ukraine)
+- [spiegel.de/app182014lindner](http://spiegel.de/app182014lindner)
+- [spiegel.de/app182014zschaepe](http://spiegel.de/app182014zschaepe)
+- [spiegel.de/app182014airbnb](http://spiegel.de/app182014airbnb) Osang über den Mietmarkt in New Yokr
+- [spiegel.de/app182014motorrad](http://spiegel.de/app182014motorrad) Energica Ego
+- [spiegel.de/app182014bienen](http://spiegel.de/app182014bienen)
+- [spiegel.de/app182014pop](http://spiegel.de/app182014pop) K-Pop
+- [spiegel.de/app182014kritik](http://spiegel.de/app182014kritik) Film: "Die Erfindung der Liebe"
+- ...und ein link zu einem Filmtrailer, QR-code ohne URL-Angabe (Fruitvale Station)
+
+
 ### Der SPIEGEL - Die Videos der Ausgabe 17/2014
 - [spiegel.de/app172014kunduz](http://spiegel.de/app172014kunduz)
 - [spiegel.de/app172014mutter](http://spiegel.de/app172014mutter)
