@@ -6,6 +6,19 @@ Seit einigen Monaten nun veröffentlicht *Der SPIEGEL* mit jeder Ausgabe *Videos
 Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL App* nicht benutze, soll mein "Getippe" wenigstens anderen zugute kommen. Daher hier die Videos zu jeder Ausgabe, simpel als Text-Dokument, quasi als Anti-App ;) oder bis jemand hier ne App dazu baut... Manchmal komplett, manchmal nur das, was ich selbst geschaut habe:
 
 
+### Der SPIEGEL - Die Videos der Ausgabe 19/2014
+- [spiegel.de/app192014layout](http://spiegel.de/app192014layout) Der neue Spiegel
+- [spiegel.de/app192014kalteprogression](http://spiegel.de/app192014kalteprogression)
+- [spiegel.de/app192014wanderarbeiter](http://spiegel.de/app192014wanderarbeiter)
+- [spiegel.de/app192014gerecht](http://spiegel.de/app192014gerecht) Von der Unmöglichkeit, mit Arbeit reich zu werden
+- [spiegel.de/app192014gas](http://spiegel.de/app192014gas)
+- [spiegel.de/app192014syrien](http://spiegel.de/app192014syrien)
+- [spiegel.de/app192014austauschschueler](http://spiegel.de/app192014austauschschueler)
+- [spiegel.de/app192014soweto](http://spiegel.de/app192014soweto)
+- [spiegel.de/app192014wildpferde](http://spiegel.de/app192014wildpferde)
+- [spiegel.de/app192014bravo](http://spiegel.de/app192014bravo)
+
+
 ### Der SPIEGEL - Die Videos der Ausgabe 18/2014
 - [spiegel.de/app182014ukraine](http://spiegel.de/app182014ukraine)
 - [spiegel.de/app182014lindner](http://spiegel.de/app182014lindner)
