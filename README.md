@@ -12,7 +12,7 @@ Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL
 - [spiegel.de/app202014transfer](http://spiegel.de/app202014transfer) Werder Bremen Transfer Flops
 - [spiegel.de/app202014janukowytsch](http://spiegel.de/app202014janukowytsch) 
 - [spiegel.de/app202014annefrank](http://spiegel.de/app202014annefrank) 
-- [spiegel.de/app202014internet](http://spiegel.de/app202014internet) BRCK Internet hbu
+- [spiegel.de/app202014internet](http://spiegel.de/app202014internet) BRCK Internet hub
 
 
 ### Der SPIEGEL - Die Videos der Ausgabe 19/2014
