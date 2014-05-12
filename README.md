@@ -6,6 +6,15 @@ Seit einigen Monaten nun veröffentlicht *Der SPIEGEL* mit jeder Ausgabe *Videos
 Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL App* nicht benutze, soll mein "Getippe" wenigstens anderen zugute kommen. Daher hier die Videos zu jeder Ausgabe, simpel als Text-Dokument, quasi als Anti-App ;) oder bis jemand hier ne App dazu baut... Manchmal komplett, manchmal nur das, was ich selbst geschaut habe:
 
 
+### Der SPIEGEL - Die Videos der Ausgabe 20/2014
+- [spiegel.de/app202014afd](http://spiegel.de/app202014afd) AfD Parteitag
+- [spiegel.de/app202014fifa](http://spiegel.de/app202014fifa) 
+- [spiegel.de/app202014transfer](http://spiegel.de/app202014transfer) Werder Bremen Transfer Flops
+- [spiegel.de/app202014janukowytsch](http://spiegel.de/app202014janukowytsch) 
+- [spiegel.de/app202014annefrank](http://spiegel.de/app202014annefrank) 
+- [spiegel.de/app202014internet](http://spiegel.de/app202014internet) BRCK Internet hbu
+
+
 ### Der SPIEGEL - Die Videos der Ausgabe 19/2014
 - [spiegel.de/app192014layout](http://spiegel.de/app192014layout) Der neue Spiegel
 - [spiegel.de/app192014kalteprogression](http://spiegel.de/app192014kalteprogression)
