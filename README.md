@@ -6,6 +6,16 @@ Seit einigen Monaten nun veröffentlicht *Der SPIEGEL* mit jeder Ausgabe *Videos
 Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL App* nicht benutze, soll mein "Getippe" wenigstens anderen zugute kommen. Daher hier die Videos zu jeder Ausgabe, simpel als Text-Dokument, quasi als Anti-App ;) oder bis jemand hier ne App dazu baut... Manchmal komplett, manchmal nur das, was ich selbst geschaut habe:
 
 
+### Der SPIEGEL - Die Videos der Ausgabe 21/2014
+- [spiegel.de/app212014titus](http://spiegel.de/app212014titus) Titus Dittmann
+- [spiegel.de/app212014europa](http://spiegel.de/app212014europa) 
+- [spiegel.de/app212014syrien](http://spiegel.de/app212014syrien) 
+- [spiegel.de/app212014tuerkei](http://spiegel.de/app212014tuerkei) 
+- [spiegel.de/app212014ukip](http://spiegel.de/app212014ukip) 
+- [spiegel.de/app212014mezzosopranistin](http://spiegel.de/app212014mezzosopranistin) Elina Garanca
+- [spiegel.de/app212014hein](http://spiegel.de/app212014hein) Ultimate Fightign
+
+
 ### Der SPIEGEL - Die Videos der Ausgabe 20/2014
 - [spiegel.de/app202014afd](http://spiegel.de/app202014afd) AfD Parteitag
 - [spiegel.de/app202014fifa](http://spiegel.de/app202014fifa) 
