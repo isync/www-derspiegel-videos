@@ -6,6 +6,18 @@ Seit einigen Monaten nun veröffentlicht *Der SPIEGEL* mit jeder Ausgabe *Videos
 Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL App* nicht benutze, soll mein "Getippe" wenigstens anderen zugute kommen. Daher hier die Videos zu jeder Ausgabe, simpel als Text-Dokument, quasi als Anti-App ;) oder bis jemand hier ne App dazu baut... Manchmal komplett, manchmal nur das, was ich selbst geschaut habe:
 
 
+### Der SPIEGEL - Die Videos der Ausgabe 22/2014
+- [spiegel.de/app222014ttip](http://spiegel.de/app222014ttip) TTIP
+- [spiegel.de/app222014trasse](http://spiegel.de/app222014trasse) Energiewende
+- [spiegel.de/app222014nigeria](http://spiegel.de/app222014nigeria)
+- [spiegel.de/app222014mexiko](http://spiegel.de/app222014mexiko)
+- [spiegel.de/app222014ezigarette](http://spiegel.de/app222014ezigarette)
+- [spiegel.de/app222014auto](http://spiegel.de/app222014auto) Selbstfahrer-Auto
+- [spiegel.de/app222014kermani](http://spiegel.de/app222014kermani)
+- [spiegel.de/app222014godard](http://spiegel.de/app222014godard)
+- [spiegel.de/app222014filmkritik](http://spiegel.de/app222014filmkritik) Maleficent
+und ein Link auf die Spiegel.de/patientendatenbank
+
 ### Der SPIEGEL - Die Videos der Ausgabe 21/2014
 - [spiegel.de/app212014titus](http://spiegel.de/app212014titus) Titus Dittmann
 - [spiegel.de/app212014europa](http://spiegel.de/app212014europa) 
