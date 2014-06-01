@@ -16,7 +16,7 @@ Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL
 - [spiegel.de/app222014kermani](http://spiegel.de/app222014kermani)
 - [spiegel.de/app222014godard](http://spiegel.de/app222014godard)
 - [spiegel.de/app222014filmkritik](http://spiegel.de/app222014filmkritik) Maleficent
-- ...und ein Link auf die Spiegel.de/patientendatenbank
+- ...und ein Link auf die http://www.Spiegel.de/patientendatenbank
 
 ### Der SPIEGEL - Die Videos der Ausgabe 21/2014
 - [spiegel.de/app212014titus](http://spiegel.de/app212014titus) Titus Dittmann
