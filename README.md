@@ -7,7 +7,10 @@ Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL
 
 
 ### Der SPIEGEL - Die Videos der Ausgabe 23/2014
-- Ausgabe ist in der Post verschwunden - sorry (Videos kommen nach)
+Ausgabe ist in der Post verschwunden - sorry (vollständige Videos kommen nach, bis dahin: geratene URLs)
+- [spiegel.de/app232014china](http://spiegel.de/app232014china) China
+- [spiegel.de/app232014tatort](http://spiegel.de/app232014tatort) Tatort Deutschland - Titelthema
+
 
 ### Der SPIEGEL - Die Videos der Ausgabe 22/2014
 - [spiegel.de/app222014ttip](http://spiegel.de/app222014ttip) TTIP
