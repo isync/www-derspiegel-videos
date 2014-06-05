@@ -7,9 +7,13 @@ Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL
 
 
 ### Der SPIEGEL - Die Videos der Ausgabe 23/2014
-Ausgabe ist in der Post verschwunden - sorry (vollständige Videos kommen nach, bis dahin: geratene URLs)
+- [spiegel.de/app232014tatort](http://spiegel.de/app232014tatort) Der Tatort in Zahlen
+- [spiegel.de/app232014roboter](http://spiegel.de/app232014roboter)
+- [spiegel.de/app232014albanien](http://spiegel.de/app232014albanien)
 - [spiegel.de/app232014china](http://spiegel.de/app232014china) China
-- [spiegel.de/app232014tatort](http://spiegel.de/app232014tatort) Tatort Deutschland - Titelthema
+- [spiegel.de/app232014indien](http://spiegel.de/app232014indien)
+- [spiegel.de/app232014fidrmuc](http://spiegel.de/app232014fidrmuc) Dem Agenten auf der Spur
+- [spiegel.de/app232014boyhood](http://spiegel.de/app232014boyhood)
 
 
 ### Der SPIEGEL - Die Videos der Ausgabe 22/2014
