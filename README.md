@@ -3,7 +3,7 @@ Die Videos der aktuellen Ausgabe "Der SPIEGEL"
 
 Seit einigen Monaten nun veröffentlicht *Der SPIEGEL* mit jeder Ausgabe *Videos* zu einzelnen Artikeln. Leider sind diese Videos - zumindest teilweise, oder auch nur für mich - im Angebot von SPIEGEL ONLINE nur schwer zu finden, oder gar nicht. Nicht mal für ältere Ausgaben - falls das "verborgen sein" dem Umstand geschuldet wäre, dass man die jeweils aktuellen Videos zurück halten wollte.
 
-Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL App* nicht benutze, soll mein "Getippe" wenigstens anderen zugute kommen. Daher hier die Videos zu jeder Ausgabe, simpel als Text-Dokument, quasi als Anti-App ;) oder bis jemand hier ne App dazu baut... Für den ein oder anderen mögen diese direkten Links auch helfen, wenn die Videos aus der App nicht laufen oder aus irgend einem anderen Grund nicht gehen. Egal. Hier die Videos, manchmal komplett, manchmal nur das, was ich selbst geschaut habe:
+Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL App* nicht benutze, soll mein "Getippe" wenigstens anderen zugute kommen. Daher hier die Videos zu jeder Ausgabe, simpel als Text-Dokument, quasi als Anti-App ;) oder bis jemand hier ne App dazu baut... Für den ein oder anderen könnten diese direkten Links auch helfen, wenn die Videos aus der App nicht laufen oder aus irgend einem anderen Grund *nicht gehen*. Egal. Hier die Videos, manchmal komplett, manchmal nur das, was ich selbst geschaut habe:
 
 
 ### Der SPIEGEL - Die Videos der Ausgabe 23/2014
@@ -27,6 +27,7 @@ Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL
 - [spiegel.de/app222014godard](http://spiegel.de/app222014godard)
 - [spiegel.de/app222014filmkritik](http://spiegel.de/app222014filmkritik) Maleficent
 - ...und ein Link auf die http://www.Spiegel.de/patientendatenbank
+
 
 ### Der SPIEGEL - Die Videos der Ausgabe 21/2014
 - [spiegel.de/app212014titus](http://spiegel.de/app212014titus) Titus Dittmann
@@ -322,7 +323,7 @@ Copy & paste template:
 
 Hallo liebe Spiegel-Redaktion,
 
-Wenn euch dieses repository nicht gefällt, einfach ein Issue Ticket aufmachen und ich  entferne es - auch wenn ich mir dafür keinen Grund vorstellen kann. Falls níemand bei euch bei github ist, [http://stackoverflow.com/questions/12686545/how-to-leave-a-message-for-github-com-user](das lesen).
+Wenn euch dieses Repositorium nicht gefällt, einfach ein Issue Ticket aufmachen und ich entferne es - auch wenn ich mir dafür keinen Grund vorstellen kann. Falls níemand bei euch bei github ist, [http://stackoverflow.com/questions/12686545/how-to-leave-a-message-for-github-com-user](das lesen).
 Wenn euch dieses repo *gefällt*, lasst es mich ebenso wissen.
 
 --
