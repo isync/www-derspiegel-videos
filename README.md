@@ -3,17 +3,17 @@ Die Videos der aktuellen Ausgabe "Der SPIEGEL"
 
 Seit einigen Monaten nun veröffentlicht *Der SPIEGEL* mit jeder Ausgabe *Videos* zu einzelnen Artikeln. Leider sind diese Videos - zumindest teilweise, oder auch nur für mich - im Angebot von SPIEGEL ONLINE nur schwer zu finden, oder gar nicht. Nicht mal für ältere Ausgaben - falls das "verborgen sein" dem Umstand geschuldet wäre, dass man die jeweils aktuellen Videos zurück halten wollte.
 
-Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL App* nicht benutze, soll mein "Getippe" wenigstens anderen zugute kommen. Daher hier die Videos zu jeder Ausgabe, simpel als Text-Dokument, quasi als Anti-App ;) oder bis jemand hier ne App dazu baut... Manchmal komplett, manchmal nur das, was ich selbst geschaut habe:
+Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL App* nicht benutze, soll mein "Getippe" wenigstens anderen zugute kommen. Daher hier die Videos zu jeder Ausgabe, simpel als Text-Dokument, quasi als Anti-App ;) oder bis jemand hier ne App dazu baut... Für den ein oder anderen mögen diese direkten Links auch helfen, wenn die Videos aus der App nicht laufen oder aus irgend einem anderen Grund nicht gehen. Egal. Hier die Videos, manchmal komplett, manchmal nur das, was ich selbst geschaut habe:
 
 
 ### Der SPIEGEL - Die Videos der Ausgabe 23/2014
-- [spiegel.de/app232014tatort](http://spiegel.de/app232014tatort) Der Tatort in Zahlen
-- [spiegel.de/app232014roboter](http://spiegel.de/app232014roboter)
-- [spiegel.de/app232014albanien](http://spiegel.de/app232014albanien)
+- [spiegel.de/app232014tatort](http://spiegel.de/app232014tatort) Der Tatort in Zahlen (zum Titelthema)
+- [spiegel.de/app232014roboter](http://spiegel.de/app232014roboter) Roboter
+- [spiegel.de/app232014albanien](http://spiegel.de/app232014albanien) Albanien
 - [spiegel.de/app232014china](http://spiegel.de/app232014china) China
-- [spiegel.de/app232014indien](http://spiegel.de/app232014indien)
+- [spiegel.de/app232014indien](http://spiegel.de/app232014indien) Indien
 - [spiegel.de/app232014fidrmuc](http://spiegel.de/app232014fidrmuc) Dem Agenten auf der Spur
-- [spiegel.de/app232014boyhood](http://spiegel.de/app232014boyhood)
+- [spiegel.de/app232014boyhood](http://spiegel.de/app232014boyhood) Boyhood
 
 
 ### Der SPIEGEL - Die Videos der Ausgabe 22/2014
