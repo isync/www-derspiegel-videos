@@ -8,6 +8,11 @@ Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL
 
 ### Der SPIEGEL - Die Videos der Ausgabe 25/2014
 - [spiegel.de/app252014schule](http://spiegel.de/app252014schule) Was Schüler sich für die Schule wünschen
+- [spiegel.de/app252014hamas](http://spiegel.de/app252014hamas)
+- [spiegel.de/app252014traumelf](http://spiegel.de/app252014traumelf)
+- [spiegel.de/app252014freistoss](http://spiegel.de/app252014freistoss)
+- [spiegel.de/app252014dokumentarfilme](http://spiegel.de/app252014dokumentarfilme)
+- [spiegel.de/app252014sloterdijk](http://spiegel.de/app252014sloterdijk)
 
 
 ### Der SPIEGEL - Die Videos der Ausgabe 24/2014
