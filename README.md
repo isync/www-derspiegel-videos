@@ -13,8 +13,8 @@ Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL
 - [spiegel.de/app262014schreiben](http://spiegel.de/app262014schreiben) DiamondKiki23
 - [spiegel.de/app262014surfen](http://spiegel.de/app262014surfen)
 - [spiegel.de/app262014kraehen](http://spiegel.de/app262014kraehen)
-- [spiegel.de/app262014london](http://spiegel.de/app262014london)
-- [spiegel.de/app262014maier](http://spiegel.de/app262014maier) vivian Meier
+- [spiegel.de/app262014london](http://spiegel.de/app262014london) Hochhäuser in Lodnon
+- [spiegel.de/app262014maier](http://spiegel.de/app262014maier) Vivian Meier
 
 
 ### Der SPIEGEL - Die Videos der Ausgabe 25/2014
