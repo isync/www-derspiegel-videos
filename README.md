@@ -6,6 +6,17 @@ Seit einigen Monaten nun veröffentlicht *Der SPIEGEL* mit jeder Ausgabe *Videos
 Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL App* nicht benutze, soll mein "Getippe" wenigstens anderen zugute kommen. Daher hier die Videos zu jeder Ausgabe, simpel als Text-Dokument, quasi als Anti-App ;) oder bis jemand hier ne App dazu baut... Für den ein oder anderen könnten diese direkten Links auch helfen, wenn die Videos aus der App nicht laufen oder aus irgend einem anderen Grund *nicht gehen*. Egal. Hier die Videos, manchmal komplett, manchmal nur das, was ich selbst geschaut habe:
 
 
+### Der SPIEGEL - Die Videos der Ausgabe 26/2014
+- [spiegel.de/app262014afghanistan](http://spiegel.de/app262014afghanistan)
+- [spiegel.de/app262014irak](http://spiegel.de/app262014irak) Stadt der Christen
+- [spiegel.de/app262014bogota](http://spiegel.de/app262014bogota)
+- [spiegel.de/app262014schreiben](http://spiegel.de/app262014schreiben) DiamondKiki23
+- [spiegel.de/app262014surfen](http://spiegel.de/app262014surfen)
+- [spiegel.de/app262014kraehen](http://spiegel.de/app262014kraehen)
+- [spiegel.de/app262014london](http://spiegel.de/app262014london)
+- [spiegel.de/app262014maier](http://spiegel.de/app262014maier) vivian Meier
+
+
 ### Der SPIEGEL - Die Videos der Ausgabe 25/2014
 - [spiegel.de/app252014schule](http://spiegel.de/app252014schule) Was Schüler sich für die Schule wünschen
 - [spiegel.de/app252014hamas](http://spiegel.de/app252014hamas)
