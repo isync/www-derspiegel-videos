@@ -1,9 +1,20 @@
 Die Videos der aktuellen Ausgabe "Der SPIEGEL"
 ==============================================
 
-Seit einigen Monaten nun veröffentlicht *Der SPIEGEL* mit jeder Ausgabe *Videos* zu einzelnen Artikeln. Leider sind diese Videos - zumindest teilweise, oder auch nur für mich - im Angebot von SPIEGEL ONLINE nur schwer zu finden, oder gar nicht. Nicht mal für ältere Ausgaben - falls das "verborgen sein" dem Umstand geschuldet wäre, dass man die jeweils aktuellen Videos zurück halten wollte.
+Seit einigen Jahren nun veröffentlicht *Der SPIEGEL* mit jeder Ausgabe *Videos* zu einzelnen Artikeln. Leider sind diese Videos - zumindest teilweise, oder auch nur für mich - im Angebot von SPIEGEL ONLINE nur schwer zu finden, oder gar nicht. Nicht mal für ältere Ausgaben - falls das "verborgen sein" dem Umstand geschuldet wäre, dass man die jeweils aktuellen Videos zurück halten wollte.
 
 Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL App* nicht benutze, soll mein "Getippe" wenigstens anderen zugute kommen. Daher hier die Videos zu jeder Ausgabe, simpel als Text-Dokument, quasi als Anti-App ;) oder bis jemand hier ne App dazu baut... Für den ein oder anderen könnten diese direkten Links auch helfen, wenn die Videos aus der App nicht laufen oder aus irgend einem anderen Grund *nicht gehen*. Egal. Hier die Videos, manchmal komplett, manchmal nur das, was ich selbst geschaut habe:
+
+
+### Der SPIEGEL - Die Videos der Ausgabe 27/2014
+- [spiegel.de/app272014weiss](http://spiegel.de/app272014weiss) Ruth Weiss
+- [spiegel.de/app272014sketche](http://spiegel.de/app272014sketche) Monty Python's beste Sketche
+- [spiegel.de/app272014irak](http://spiegel.de/app272014irak)
+- [spiegel.de/app272014ukraine](http://spiegel.de/app272014ukraine)
+- [spiegel.de/app272014suedsudan](http://spiegel.de/app272014suedsudan) Cholera
+- [spiegel.de/app272014gelenke](http://spiegel.de/app272014gelenke) Titelthema Gelenke
+- [spiegel.de/app272014amazon](http://spiegel.de/app272014amazon) Amazon
+- [spiegel.de/app272014rumsfeld](http://spiegel.de/app272014rumsfeld) The Unknown Known
 
 
 ### Der SPIEGEL - Die Videos der Ausgabe 26/2014
