@@ -12,7 +12,7 @@ Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL
 - [spiegel.de/app272014irak](http://spiegel.de/app272014irak)
 - [spiegel.de/app272014ukraine](http://spiegel.de/app272014ukraine)
 - [spiegel.de/app272014suedsudan](http://spiegel.de/app272014suedsudan) Cholera
-- [spiegel.de/app272014gelenke](http://spiegel.de/app272014gelenke) Titelthema Gelenke
+- [spiegel.de/app272014gelenke](http://spiegel.de/app272014gelenke) Titelthema Gelenke: individuelle Implantate d. Ganganalyse
 - [spiegel.de/app272014amazon](http://spiegel.de/app272014amazon) Amazon
 - [spiegel.de/app272014rumsfeld](http://spiegel.de/app272014rumsfeld) The Unknown Known
 
