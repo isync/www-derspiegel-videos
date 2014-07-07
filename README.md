@@ -6,6 +6,16 @@ Seit einigen Jahren nun veröffentlicht *Der SPIEGEL* mit jeder Ausgabe *Videos*
 Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL App* nicht benutze, soll mein "Getippe" wenigstens anderen zugute kommen. Daher hier die Videos zu jeder Ausgabe, simpel als Text-Dokument, quasi als Anti-App ;) oder bis jemand hier ne App dazu baut... Für den ein oder anderen könnten diese direkten Links auch helfen, wenn die Videos aus der App nicht laufen oder aus irgend einem anderen Grund *nicht gehen*. Egal. Hier die Videos, manchmal komplett, manchmal nur das, was ich selbst geschaut habe:
 
 
+### Der SPIEGEL - Die Videos der Ausgabe 28/2014
+- [spiegel.de/app282014clark](http://spiegel.de/app282014clark) Juli-Krise 1914
+- [spiegel.de/app282014infrastruktur](http://spiegel.de/app282014infrastruktur) Wutbürger
+- [spiegel.de/app282014israel](http://spiegel.de/app282014israel) Mohammed Abu Chidair
+- [spiegel.de/app282014haiti](http://spiegel.de/app282014haiti) kampf gegen die Cholera
+- [spiegel.de/app282014loew](http://spiegel.de/app282014loew) Loews Karriere
+- [spiegel.de/app282014fahrrad](http://spiegel.de/app282014fahrrad)
+- [spiegel.de/app282014lkw](http://spiegel.de/app282014lkw)
+
+
 ### Der SPIEGEL - Die Videos der Ausgabe 27/2014
 - [spiegel.de/app272014weiss](http://spiegel.de/app272014weiss) Ruth Weiss
 - [spiegel.de/app272014sketche](http://spiegel.de/app272014sketche) Monty Python's beste Sketche
