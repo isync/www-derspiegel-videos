@@ -376,7 +376,7 @@ Copy & paste template:
 
 Hallo liebe Spiegel-Redaktion,
 
-Wenn euch dieses Repositorium nicht gefällt, einfach ein Issue Ticket aufmachen und ich entferne es - auch wenn ich mir dafür keinen Grund vorstellen kann. Falls níemand bei euch bei github ist, [http://stackoverflow.com/questions/12686545/how-to-leave-a-message-for-github-com-user](das lesen).
+Wenn euch dieses Repositorium nicht gefällt, einfach ein Issue Ticket aufmachen und ich entferne es - auch wenn ich mir dafür keinen Grund vorstellen kann. Falls niemand bei euch bei github ist, [https://web.archive.org/web/20140323060713/http://stackoverflow.com/questions/12686545/how-to-leave-a-message-for-github-com-user](das lesen).
 Wenn euch dieses repo *gefällt*, lasst es mich ebenso wissen.
 
 --
