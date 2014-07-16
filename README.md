@@ -7,7 +7,7 @@ Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL
 
 
 ### Der SPIEGEL - Die Videos der Ausgabe 29/2014
-- [spiegel.de/app292014bnd](http://spiegel.de/app292014bnd)
+- [spiegel.de/app292014bnd](http://spiegel.de/app292014bnd) [broken]
 - [spiegel.de/app292014salafisten](http://spiegel.de/app292014salafisten) Salafisten in Dinslaken
 - [spiegel.de/app292014israel](http://spiegel.de/app292014israel) Gaza
 - [spiegel.de/app292014monaco](http://spiegel.de/app292014monaco)
