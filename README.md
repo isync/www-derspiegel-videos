@@ -6,6 +6,15 @@ Seit einigen Jahren nun veröffentlicht *Der SPIEGEL* mit jeder Ausgabe *Videos*
 Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL App* nicht benutze, soll mein "Getippe" wenigstens anderen zugute kommen. Daher hier die Videos zu jeder Ausgabe, simpel als Text-Dokument, quasi als Anti-App ;) oder bis jemand hier ne App dazu baut... Für den ein oder anderen könnten diese direkten Links auch helfen, wenn die Videos aus der App nicht laufen oder aus irgend einem anderen Grund *nicht gehen*. Egal. Hier die Videos, manchmal komplett, manchmal nur das, was ich selbst geschaut habe:
 
 
+### Der SPIEGEL - Die Videos der Ausgabe 29/2014
+- [spiegel.de/app292014bnd](http://spiegel.de/app292014bnd)
+- [spiegel.de/app292014salafisten](http://spiegel.de/app292014salafisten) Salafisten in Dinslaken
+- [spiegel.de/app292014israel](http://spiegel.de/app292014israel) Gaza
+- [spiegel.de/app292014monaco](http://spiegel.de/app292014monaco)
+- [spiegel.de/app292014costaconcordia](http://spiegel.de/app292014costaconcordia)
+- [spiegel.de/app292014drohnen](http://spiegel.de/app292014drohnen) ein Drohnenpilot erzählt
+
+
 ### Der SPIEGEL - Die Videos der Ausgabe 28/2014
 - [spiegel.de/app282014clark](http://spiegel.de/app282014clark) Juli-Krise 1914
 - [spiegel.de/app282014infrastruktur](http://spiegel.de/app282014infrastruktur) Wutbürger
