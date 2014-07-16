@@ -13,6 +13,7 @@ Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL
 - [spiegel.de/app292014monaco](http://spiegel.de/app292014monaco)
 - [spiegel.de/app292014costaconcordia](http://spiegel.de/app292014costaconcordia)
 - [spiegel.de/app292014drohnen](http://spiegel.de/app292014drohnen) ein Drohnenpilot erzählt
+- [spiegel.de/app292014kritik](http://spiegel.de/app292014kritik) Filmkritik: Der Schmetterlingsjäger (Nabokov)
 
 
 ### Der SPIEGEL - Die Videos der Ausgabe 28/2014
