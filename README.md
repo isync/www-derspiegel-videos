@@ -6,6 +6,16 @@ Seit einigen Jahren nun veröffentlicht *Der SPIEGEL* mit jeder Ausgabe *Videos*
 Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL App* nicht benutze, soll mein "Getippe" wenigstens anderen zugute kommen. Daher hier die Videos zu jeder Ausgabe, simpel als Text-Dokument, quasi als Anti-App ;) oder bis jemand hier ne App dazu baut... Für den ein oder anderen könnten diese direkten Links auch helfen, wenn die Videos aus der App nicht laufen oder aus irgend einem anderen Grund *nicht gehen*. Egal. Hier die Videos, manchmal komplett, manchmal nur das, was ich selbst geschaut habe:
 
 
+### Der SPIEGEL - Die Videos der Ausgabe 30/2014
+- [spiegel.de/app302014wulff](http://spiegel.de/app302014wulff)
+- [spiegel.de/app302014kunstraub](http://spiegel.de/app302014kunstraub)
+- [spiegel.de/app302014ramadan](http://spiegel.de/app302014ramadan)
+- [spiegel.de/app302014bundesbank](http://spiegel.de/app302014bundesbank) Deflation
+- [spiegel.de/app302014frankreich](http://spiegel.de/app302014frankreich)
+- [spiegel.de/app302014lkw](http://spiegel.de/app302014lkw)
+- [spiegel.de/app302014kritik](http://spiegel.de/app302014kritik) Monsieur Claude und seine Töchter (Qu'est-ce qu'on a fait au bon Dieu)
+
+
 ### Der SPIEGEL - Die Videos der Ausgabe 29/2014
 - [spiegel.de/app292014bnd](http://spiegel.de/app292014bnd) [broken]
 - [spiegel.de/app292014salafisten](http://spiegel.de/app292014salafisten) Salafisten in Dinslaken
