@@ -6,6 +6,22 @@ Seit einigen Jahren nun veröffentlicht *Der SPIEGEL* mit jeder Ausgabe *Videos*
 Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL App* nicht benutze, soll mein "Getippe" wenigstens anderen zugute kommen. Daher hier die Videos zu jeder Ausgabe, simpel als Text-Dokument, quasi als Anti-App ;) oder bis jemand hier ne App dazu baut... Für den ein oder anderen könnten diese direkten Links auch helfen, wenn die Videos aus der App nicht laufen oder aus irgend einem anderen Grund *nicht gehen*. Egal. Hier die Videos, manchmal komplett, manchmal nur das, was ich selbst geschaut habe:
 
 
+### Der SPIEGEL - Die Videos der Ausgabe 31/2014
+- [spiegel.de/app312014israel](http://spiegel.de/app312014israel)
+- [spiegel.de/app312014hoeness](http://spiegel.de/app312014hoeness)
+- [spiegel.de/app312014jakobsweg](http://spiegel.de/app312014jakobsweg)
+- [spiegel.de/app312014ukraine](http://spiegel.de/app312014ukraine)
+- [spiegel.de/app312014gaza](http://spiegel.de/app312014gaza)
+- [spiegel.de/app312014fcbayern](http://spiegel.de/app312014fcbayer)
+- [spiegel.de/app312014schnappschildkroete](http://spiegel.de/app312014schnappschildkroete)
+- [spiegel.de/app312014HipHop](http://spiegel.de/app312014HipHop)
+- [spiegel.de/app312014kilmister](http://spiegel.de/app312014kilmister)
+- [spiegel.de/app312014berghain](http://spiegel.de/app312014berghain)
+- [spiegel.de/app312014klavier](http://spiegel.de/app312014klavier)
+- [spiegel.de/app312014film](http://spiegel.de/app312014film) Ausschnitte "Jersey Boys"
+- [spiegel.de/app312014comedy](http://spiegel.de/app312014comedy)
+
+
 ### Der SPIEGEL - Die Videos der Ausgabe 30/2014
 - [spiegel.de/app302014wulff](http://spiegel.de/app302014wulff)
 - [spiegel.de/app302014kunstraub](http://spiegel.de/app302014kunstraub)
