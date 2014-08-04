@@ -22,12 +22,12 @@ Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL
 - [spiegel.de/app312014jakobsweg](http://spiegel.de/app312014jakobsweg)
 - [spiegel.de/app312014ukraine](http://spiegel.de/app312014ukraine)
 - [spiegel.de/app312014gaza](http://spiegel.de/app312014gaza)
-- [spiegel.de/app312014fcbayern](http://spiegel.de/app312014fcbayer)
+- [spiegel.de/app312014fcbayern](http://spiegel.de/app312014fcbayern)
 - [spiegel.de/app312014schnappschildkroete](http://spiegel.de/app312014schnappschildkroete)
 - [spiegel.de/app312014HipHop](http://spiegel.de/app312014HipHop)
-- [spiegel.de/app312014kilmister](http://spiegel.de/app312014kilmister)
-- [spiegel.de/app312014berghain](http://spiegel.de/app312014berghain)
-- [spiegel.de/app312014klavier](http://spiegel.de/app312014klavier)
+- [spiegel.de/app312014kilmister](http://spiegel.de/app312014kilmister) Motörhead
+- [spiegel.de/app312014berghain](http://spiegel.de/app312014berghain) Die Bilder von Sven Marquardt
+- [spiegel.de/app312014klavier](http://spiegel.de/app312014klavier) Chilly Gonzales' Klavier-Album
 - [spiegel.de/app312014film](http://spiegel.de/app312014film) Ausschnitte "Jersey Boys"
 - [spiegel.de/app312014comedy](http://spiegel.de/app312014comedy)
 
