@@ -6,6 +6,16 @@ Seit einigen Jahren nun veröffentlicht *Der SPIEGEL* mit jeder Ausgabe *Videos*
 Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL App* nicht benutze, soll mein "Getippe" wenigstens anderen zugute kommen. Daher hier die Videos zu jeder Ausgabe, simpel als Text-Dokument, quasi als Anti-App ;) oder bis jemand hier ne App dazu baut... Für den ein oder anderen könnten diese direkten Links auch helfen, wenn die Videos aus der App nicht laufen oder aus irgend einem anderen Grund *nicht gehen*. Egal. Hier die Videos, manchmal komplett, manchmal nur das, was ich selbst geschaut habe:
 
 
+### Der SPIEGEL - Die Videos der Ausgabe 32/2014
+- [spiegel.de/app322014erdogan](http://spiegel.de/app322014erdogan) Titelstory
+- [spiegel.de/app322014trdwahl](http://spiegel.de/app322014trdwahl)
+- [spiegel.de/app322014kerry](http://spiegel.de/app322014kerry)
+- [spiegel.de/app322014krankheiten](http://spiegel.de/app322014krankheiten)
+- [spiegel.de/app322014eggers](http://spiegel.de/app322014eggers) Auszug "Der Circle"
+- [spiegel.de/app322014mafia](http://spiegel.de/app322014mafia)
+- [spiegel.de/app322014videogamer](http://spiegel.de/app322014videogamer) Chris Roberts' Star Citizen
+
+
 ### Der SPIEGEL - Die Videos der Ausgabe 31/2014
 - [spiegel.de/app312014israel](http://spiegel.de/app312014israel)
 - [spiegel.de/app312014hoeness](http://spiegel.de/app312014hoeness)
