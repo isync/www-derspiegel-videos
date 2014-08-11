@@ -6,6 +6,16 @@ Seit einigen Jahren nun veröffentlicht *Der SPIEGEL* mit jeder Ausgabe *Videos*
 Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL App* nicht benutze, soll mein "Getippe" wenigstens anderen zugute kommen. Daher hier die Videos zu jeder Ausgabe, simpel als Text-Dokument, quasi als Anti-App ;) oder bis jemand hier ne App dazu baut... Für den ein oder anderen könnten diese direkten Links auch helfen, wenn die Videos aus der App nicht laufen oder aus irgend einem anderen Grund *nicht gehen*. Egal. Hier die Videos, manchmal komplett, manchmal nur das, was ich selbst geschaut habe:
 
 
+### Der SPIEGEL - Die Videos der Ausgabe 33/2014
+- [spiegel.de/app332014debruyn](http://spiegel.de/app332014debruyn)
+- [spiegel.de/app332014uhrmacher](http://spiegel.de/app332014uhrmacher) Uhrmacher in Hamburg
+- [spiegel.de/app332014krim](http://spiegel.de/app332014krim)
+- [spiegel.de/app332014hongkong](http://spiegel.de/app332014hongkong)
+- [spiegel.de/app332014brecht](http://spiegel.de/app332014brecht)
+- [spiegel.de/app332014americascup](http://spiegel.de/app332014americascup)
+- [spiegel.de/app332014liebespille](http://spiegel.de/app332014liebespille) Titelstory
+
+
 ### Der SPIEGEL - Die Videos der Ausgabe 32/2014
 - [spiegel.de/app322014erdogan](http://spiegel.de/app322014erdogan) Titelstory
 - [spiegel.de/app322014trdwahl](http://spiegel.de/app322014trdwahl)
