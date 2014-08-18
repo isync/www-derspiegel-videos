@@ -6,6 +6,18 @@ Seit einigen Jahren nun veröffentlicht *Der SPIEGEL* mit jeder Ausgabe *Videos*
 Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL App* nicht benutze, soll mein "Getippe" wenigstens anderen zugute kommen. Daher hier die Videos zu jeder Ausgabe, simpel als Text-Dokument, quasi als Anti-App ;) oder bis jemand hier ne App dazu baut... Für den ein oder anderen könnten diese direkten Links auch helfen, wenn die Videos aus der App nicht laufen oder aus irgend einem anderen Grund *nicht gehen*. Egal. Hier die Videos, manchmal komplett, manchmal nur das, was ich selbst geschaut habe:
 
 
+### Der SPIEGEL - Die Videos der Ausgabe 34/2014
+- [spiegel.de/app342014alimaus](http://spiegel.de/app342014alimaus)
+- [spiegel.de/app342014shareeconomy](http://spiegel.de/app342014shareeconomy)
+- [spiegel.de/app342014irak](http://spiegel.de/app342014irak)
+- [spiegel.de/app342014israel](http://spiegel.de/app342014israel)
+- [spiegel.de/app342014kramer](http://spiegel.de/app342014kramer)
+- [spiegel.de/app342014marsone](http://spiegel.de/app342014marsone)
+- [spiegel.de/app342014hochdruckreiniger](http://spiegel.de/app342014hochdruckreiniger)
+- [spiegel.de/app342014galerie](http://spiegel.de/app342014galerie)
+- [spiegel.de/app342014kino](http://spiegel.de/app342014kino) "A Most Wanted Man"
+
+
 ### Der SPIEGEL - Die Videos der Ausgabe 33/2014
 - [spiegel.de/app332014debruyn](http://spiegel.de/app332014debruyn)
 - [spiegel.de/app332014uhrmacher](http://spiegel.de/app332014uhrmacher) Uhrmacher in Hamburg
