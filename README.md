@@ -7,6 +7,20 @@ Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL
 
 
 ### Der SPIEGEL - Die Videos der Ausgabe 34/2014
+- [spiegel.de/app352014auschwitz](http://spiegel.de/app352014auschwitz)
+- [spiegel.de/app352014kondompflicht](http://spiegel.de/app352014kondompflicht)
+- [spiegel.de/app352014sternekoeche](http://spiegel.de/app352014sternekoeche)
+- [spiegel.de/app352014meldung](http://spiegel.de/app352014meldung)
+- [spiegel.de/app352014ferguson](http://spiegel.de/app352014ferguson)
+- [spiegel.de/app352014schottland](http://spiegel.de/app352014schottland)
+- [spiegel.de/app352014becker](http://spiegel.de/app352014becker)
+- [spiegel.de/app352014reptilien](http://spiegel.de/app352014reptilien)
+- [spiegel.de/app352014schloendorff](http://spiegel.de/app352014schloendorff) "Diplomatie"
+- [spiegel.de/app352014pawlenski](http://spiegel.de/app352014pawlenski)
+- [spiegel.de/app352014kritik](http://spiegel.de/app352014kritik) "Can a Song Save Your Life"
+
+
+### Der SPIEGEL - Die Videos der Ausgabe 34/2014
 - [spiegel.de/app342014alimaus](http://spiegel.de/app342014alimaus)
 - [spiegel.de/app342014shareeconomy](http://spiegel.de/app342014shareeconomy)
 - [spiegel.de/app342014irak](http://spiegel.de/app342014irak)
