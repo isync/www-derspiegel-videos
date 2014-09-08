@@ -6,6 +6,15 @@ Seit einigen Jahren nun veröffentlicht *Der SPIEGEL* mit jeder Ausgabe *Videos*
 Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL App* nicht benutze, soll mein "Getippe" wenigstens anderen zugute kommen. Daher hier die Videos zu jeder Ausgabe, simpel als Text-Dokument, quasi als Anti-App ;) oder bis jemand hier ne App dazu baut... Für den ein oder anderen könnten diese direkten Links auch helfen, wenn die Videos aus der App nicht laufen oder aus irgend einem anderen Grund *nicht gehen*. Egal. Hier die Videos, manchmal komplett, manchmal nur das, was ich selbst geschaut habe:
 
 
+### Der SPIEGEL - Die Videos der Ausgabe 37/2014
+- [spiegel.de/app372014rosling](http://spiegel.de/app372014rosling)
+- [spiegel.de/app372014deutschland](http://spiegel.de/app372014deutschland)
+- [spiegel.de/app372014loren](http://spiegel.de/app372014loren)
+- [spiegel.de/app372014akin](http://spiegel.de/app372014akin)
+- [spiegel.de/app372014jahn](http://spiegel.de/app372014jahn)
+- [spiegel.de/app372014montblanc](http://spiegel.de/app372014montblanc)
+
+
 ### Der SPIEGEL - Die Videos der Ausgabe 36/2014
 - [spiegel.de/app362014frontex](http://spiegel.de/app362014frontex)
 - [spiegel.de/app362014ukraine](http://spiegel.de/app362014ukraine)
