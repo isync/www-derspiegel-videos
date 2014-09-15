@@ -15,7 +15,7 @@ Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL
 - [spiegel.de/app382014schottland](http://spiegel.de/app382014schottland)
 - [spiegel.de/app382014hinrichtung](http://spiegel.de/app382014hinrichtung)
 - [spiegel.de/app382014richards](http://spiegel.de/app382014richards) Keith Richards
-- [spiegel.de/app382014gangterlaeufer](http://spiegel.de/app382014gangterlaeufer) Christian Stahl über "Gangsterläufer"
+- [spiegel.de/app382014gangsterlaeufer](http://spiegel.de/app382014gangsterlaeufer) Christian Stahl über "Gangsterläufer"
 - [spiegel.de/app382014schossgebete](http://spiegel.de/app382014schossgebete)
 - [spiegel.de/app382014fledermaus](http://spiegel.de/app382014fledermaus)
 - [spiegel.de/app382014fiat](http://spiegel.de/app382014fiat) Jeep
