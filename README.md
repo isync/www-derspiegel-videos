@@ -6,6 +6,21 @@ Seit einigen Jahren nun veröffentlicht *Der SPIEGEL* mit jeder Ausgabe *Videos*
 Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL App* nicht benutze, soll mein "Getippe" wenigstens anderen zugute kommen. Daher hier die Videos zu jeder Ausgabe, simpel als Text-Dokument, quasi als Anti-App ;) oder bis jemand hier ne App dazu baut... Für den ein oder anderen könnten diese direkten Links auch helfen, wenn die Videos aus der App nicht laufen oder aus irgend einem anderen Grund *nicht gehen*. Egal. Hier die Videos, manchmal komplett, manchmal nur das, was ich selbst geschaut habe:
 
 
+### Der SPIEGEL - Die Videos der Ausgabe 38/2014
+- [spiegel.de/app382014gruene](http://spiegel.de/app382014gruene) Die Geschichte der Grünen
+- [spiegel.de/app382014mauer](http://spiegel.de/app382014mauer) DDR
+- [spiegel.de/app382014telekom](http://spiegel.de/app382014telekom) Chokepoint
+- [spiegel.de/app382014tesla](http://spiegel.de/app382014tesla) (3D Modell)
+- [spiegel.de/app382014ukraine](http://spiegel.de/app382014ukraine)
+- [spiegel.de/app382014schottland](http://spiegel.de/app382014schottland)
+- [spiegel.de/app382014hinrichtung](http://spiegel.de/app382014hinrichtung)
+- [spiegel.de/app382014richards](http://spiegel.de/app382014richards) Keith Richards
+- [spiegel.de/app382014gangterlaeufer](http://spiegel.de/app382014gangterlaeufer) Christian Stahl über "Gangsterläufer"
+- [spiegel.de/app382014schossgebete](http://spiegel.de/app382014schossgebete)
+- [spiegel.de/app382014fledermaus](http://spiegel.de/app382014fledermaus)
+- [spiegel.de/app382014fiat](http://spiegel.de/app382014fiat) Jeep
+
+
 ### Der SPIEGEL - Die Videos der Ausgabe 37/2014
 - [spiegel.de/app372014rosling](http://spiegel.de/app372014rosling)
 - [spiegel.de/app372014deutschland](http://spiegel.de/app372014deutschland)
