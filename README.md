@@ -6,6 +6,19 @@ Seit einigen Jahren nun veröffentlicht *Der SPIEGEL* mit jeder Ausgabe *Videos*
 Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL App* nicht benutze, soll mein "Getippe" wenigstens anderen zugute kommen. Daher hier die Videos zu jeder Ausgabe, simpel als Text-Dokument, quasi als Anti-App ;) oder bis jemand hier ne App dazu baut... Für den ein oder anderen könnten diese direkten Links auch helfen, wenn die Videos aus der App nicht laufen oder aus irgend einem anderen Grund *nicht gehen*. Egal. Hier die Videos, manchmal komplett, manchmal nur das, was ich selbst geschaut habe:
 
 
+### Der SPIEGEL - Die Videos der Ausgabe 39/2014
+- [spiegel.de/app392014botschaft](http://spiegel.de/app392014botschaft)
+- [spiegel.de/app392014ezb](http://spiegel.de/app392014ezb)
+- [spiegel.de/app392014aleppo](http://spiegel.de/app392014aleppo)
+- [spiegel.de/app392014fluechtlinge](http://spiegel.de/app392014fluechtlinge)
+- [spiegel.de/app392014venedig](http://spiegel.de/app392014venedig) Poveglia
+- [spiegel.de/app392014kermani](http://spiegel.de/app392014kermani)
+- [spiegel.de/app392014tokio](http://spiegel.de/app392014tokio) Tokio Hotel
+- [spiegel.de/app392014phoenix](http://spiegel.de/app392014phoenix)
+- [spiegel.de/app392014ebola](http://spiegel.de/app392014ebola)
+- [spiegel.de/app392014kaymer](http://spiegel.de/app392014kaymer) Martin Kaymer
+
+
 ### Der SPIEGEL - Die Videos der Ausgabe 38/2014
 - [spiegel.de/app382014gruene](http://spiegel.de/app382014gruene) Die Geschichte der Grünen
 - [spiegel.de/app382014mauer](http://spiegel.de/app382014mauer) DDR
