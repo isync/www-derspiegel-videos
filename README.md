@@ -6,6 +6,18 @@ Seit einigen Jahren nun veröffentlicht *Der SPIEGEL* mit jeder Ausgabe *Videos*
 Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL App* nicht benutze, soll mein "Getippe" wenigstens anderen zugute kommen. Daher hier die Videos zu jeder Ausgabe, simpel als Text-Dokument, quasi als Anti-App ;) oder bis jemand hier ne App dazu baut... Für den ein oder anderen könnten diese direkten Links auch helfen, wenn die Videos aus der App nicht laufen oder aus irgend einem anderen Grund *nicht gehen*. Egal. Hier die Videos, manchmal komplett, manchmal nur das, was ich selbst geschaut habe:
 
 
+### Der SPIEGEL - Die Videos der Ausgabe 40/2014
+- [spiegel.de/app402014crystal](http://spiegel.de/app402014crystal) Golfen
+- [spiegel.de/app402014leipzig](http://spiegel.de/app402014leipzig)
+- [spiegel.de/app402014afghanistan](http://spiegel.de/app402014afghanistan)
+- [spiegel.de/app402014rocket](http://spiegel.de/app402014rocket)
+- [spiegel.de/app402014thueringen](http://spiegel.de/app402014thueringen)
+- [spiegel.de/app402014is](http://spiegel.de/app402014is)
+- [spiegel.de/app402014a320](http://spiegel.de/app402014a320)
+- [spiegel.de/app402014kafka](http://spiegel.de/app402014kafka)
+- [spiegel.de/app402014fincher](http://spiegel.de/app402014fincher)
+
+
 ### Der SPIEGEL - Die Videos der Ausgabe 39/2014
 - [spiegel.de/app392014botschaft](http://spiegel.de/app392014botschaft)
 - [spiegel.de/app392014ezb](http://spiegel.de/app392014ezb)
