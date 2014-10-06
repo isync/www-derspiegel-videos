@@ -7,13 +7,13 @@ Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL
 
 
 ### Der SPIEGEL - Die Videos der Ausgabe 41/2014
-- [spiegel.de/app412014kohl](http://spiegel.de/app412014kohl)
-- [spiegel.de/app412014wald](http://spiegel.de/app412014wald) Raupenplage
-- [spiegel.de/app412014mauer](http://spiegel.de/app412014mauer)
-- [spiegel.de/app412014freizeit](http://spiegel.de/app412014freizeit) auf der Kartbahn
-- [spiegel.de/app412014hongkong](http://spiegel.de/app412014hongkong)
-- [spiegel.de/app412014haie](http://spiegel.de/app412014haie)
-- [spiegel.de/app412014irak](http://spiegel.de/app412014irak)
+- [spiegel.de/SP412014kohl](http://spiegel.de/SP412014kohl)
+- [spiegel.de/SP412014wald](http://spiegel.de/SP412014wald) Raupenplage
+- [spiegel.de/SP412014mauer](http://spiegel.de/SP412014mauer)
+- [spiegel.de/SP412014freizeit](http://spiegel.de/SP412014freizeit) auf der Kartbahn
+- [spiegel.de/SP412014hongkong](http://spiegel.de/SP412014hongkong)
+- [spiegel.de/SP412014haie](http://spiegel.de/SP412014haie)
+- [spiegel.de/SP412014irak](http://spiegel.de/SP412014irak)
 
 
 ### Der SPIEGEL - Die Videos der Ausgabe 40/2014
