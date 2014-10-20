@@ -6,6 +6,19 @@ Seit einigen Jahren nun veröffentlicht *Der SPIEGEL* mit jeder Ausgabe *Videos*
 Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL App* nicht benutze, soll mein "Getippe" wenigstens anderen zugute kommen. Daher hier die Videos zu jeder Ausgabe, simpel als Text-Dokument, quasi als Anti-App ;) oder bis jemand hier ne App dazu baut... Für den ein oder anderen könnten diese direkten Links auch helfen, wenn die Videos aus der App nicht laufen oder aus irgend einem anderen Grund *nicht gehen*. Egal. Hier die Videos, manchmal komplett, manchmal nur das, was ich selbst geschaut habe:
 
 
+### Der SPIEGEL - Die Videos der Ausgabe 43/2014
+- [spiegel.de/sp432014soldat](http://spiegel.de/sp432014soldat)
+- [spiegel.de/sp432014is](http://spiegel.de/sp432014is)
+- [spiegel.de/sp432014kapitalismu](http://spiegel.de/sp432014kapitalismus)
+- [spiegel.de/sp432014brasilien](http://spiegel.de/sp432014brasilien)
+- [spiegel.de/SP432014ukraine](http://spiegel.de/SP432014ukraine)
+- [spiegel.de/sp432014klassik](http://spiegel.de/sp432014klassik)
+- [spiegel.de/sp432014wald](http://spiegel.de/sp432014wald)
+- [spiegel.de/sp432014lindau](http://spiegel.de/sp432014lindau)
+- [spiegel.de/sp432014blitz](http://spiegel.de/sp432014blitz)
+- [spiegel.de/sp4320143nach9](http://spiegel.de/sp4320143nach9)
+
+
 ### Der SPIEGEL - Die Videos der Ausgabe 42/2014
 - [spiegel.de/sp422014mauer](http://spiegel.de/sp422014mauer)
 - [spiegel.de/sp422014sahara](http://spiegel.de/sp422014sahara)
