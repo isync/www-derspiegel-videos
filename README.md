@@ -6,6 +6,18 @@ Seit einigen Jahren nun veröffentlicht *Der SPIEGEL* mit jeder Ausgabe *Videos*
 Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL App* nicht benutze, soll mein "Getippe" wenigstens anderen zugute kommen. Daher hier die Videos zu jeder Ausgabe, simpel als Text-Dokument, quasi als Anti-App ;) oder bis jemand hier ne App dazu baut... Für den ein oder anderen könnten diese direkten Links auch helfen, wenn die Videos aus der App nicht laufen oder aus irgend einem anderen Grund *nicht gehen*. Egal. Hier die Videos, manchmal komplett, manchmal nur das, was ich selbst geschaut habe:
 
 
+### Der SPIEGEL - Die Videos der Ausgabe 44/2014
+- [spiegel.de/sp442014tegernsee](http://spiegel.de/sp442014tegernsee)
+- [spiegel.de/sp442014wein](http://spiegel.de/sp442014wein)
+- [spiegel.de/SP442014burger](http://spiegel.de/SP442014burger)
+- [spiegel.de/sp442014pkk](http://spiegel.de/sp442014pkk)
+- [spiegel.de/sp442014china](http://spiegel.de/sp442014china)
+- [spiegel.de/sp442014cotillard](http://spiegel.de/sp442014cotillard) "Zwei Tage, eine Nacht"
+- [spiegel.de/sp442014bibliothek](http://spiegel.de/sp442014bibliothek) Obdachlose in SF
+- [spiegel.de/sp442014koenig](http://spiegel.de/sp442014koenig)
+- [spiegel.de/SP442014lippe](http://spiegel.de/S4P42014lippe)
+
+
 ### Der SPIEGEL - Die Videos der Ausgabe 43/2014
 - [spiegel.de/sp432014soldat](http://spiegel.de/sp432014soldat)
 - [spiegel.de/sp432014is](http://spiegel.de/sp432014is)
