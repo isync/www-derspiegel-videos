@@ -6,6 +6,17 @@ Seit einigen Jahren nun veröffentlicht *Der SPIEGEL* mit jeder Ausgabe *Videos*
 Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL App* nicht benutze, soll mein "Getippe" wenigstens anderen zugute kommen. Daher hier die Videos zu jeder Ausgabe, simpel als Text-Dokument, quasi als Anti-App ;) oder bis jemand hier ne App dazu baut... Für den ein oder anderen könnten diese direkten Links auch helfen, wenn die Videos aus der App nicht laufen oder aus irgend einem anderen Grund *nicht gehen*. Egal. Hier die Videos, manchmal komplett, manchmal nur das, was ich selbst geschaut habe:
 
 
+### Der SPIEGEL - Die Videos der Ausgabe 45/2014
+- [spiegel.de/sp452014stottern](http://spiegel.de/sp452014stottern)
+- [spiegel.de/sp452014wind](http://spiegel.de/sp452014wind)
+- [spiegel.de/sp452014nicaragua](http://spiegel.de/sp452014nicaragua) Kanal
+- [spiegel.de/sp452014bauer](http://spiegel.de/sp452014bauer)
+- [spiegel.de/sp452014faithfull](http://spiegel.de/sp452014faithfull)
+- [spiegel.de/sp452014forscher](http://spiegel.de/sp452014forscher)
+- [spiegel.de/sp452014ello](http://spiegel.de/sp452014ello) ello.co
+- [spiegel.de/sp452014ebola](http://spiegel.de/sp452014ebola)
+
+
 ### Der SPIEGEL - Die Videos der Ausgabe 44/2014
 - [spiegel.de/sp442014tegernsee](http://spiegel.de/sp442014tegernsee)
 - [spiegel.de/sp442014wein](http://spiegel.de/sp442014wein)
