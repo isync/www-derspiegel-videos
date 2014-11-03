@@ -12,7 +12,7 @@ Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL
 - [spiegel.de/sp452014nicaragua](http://spiegel.de/sp452014nicaragua) Nicaragua-Kanal
 - [spiegel.de/sp452014bauer](http://spiegel.de/sp452014bauer) Labyrinth des Schweigens
 - [spiegel.de/sp452014faithfull](http://spiegel.de/sp452014faithfull)
-- [spiegel.de/sp452014forscher](http://spiegel.de/sp452014forscher)
+- [spiegel.de/sp452014forscher](http://spiegel.de/sp452014forscher) COPAS-System
 - [spiegel.de/sp452014ello](http://spiegel.de/sp452014ello) ello.co
 - [spiegel.de/sp452014ebola](http://spiegel.de/sp452014ebola)
 
