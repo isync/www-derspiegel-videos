@@ -9,7 +9,7 @@ Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL
 ### Der SPIEGEL - Die Videos der Ausgabe 46/2014
 - [spiegel.de/sp462014wiedervereinigung](http://spiegel.de/sp462014wiedervereinigung)
 - [spiegel.de/sp462014spielsucht](http://spiegel.de/sp462014spielsucht)
-- [spiegel.de/sp462014martin](http://spiegel.de/sp462014martin) George R. R. Martin
+- [spiegel.de/sp462014martin](http://spiegel.de/sp462014martin) George R. R. Martin (kein Video)
 - [spiegel.de/sp462014notaufnahme](http://spiegel.de/sp462014notaufnahme)
 - [spiegel.de/sp462014rosetta](http://spiegel.de/sp462014rosetta)
 - [spiegel.de/sp462014fotografie](http://spiegel.de/sp462014fotografie)
