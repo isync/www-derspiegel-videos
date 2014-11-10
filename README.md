@@ -6,6 +6,15 @@ Seit einigen Jahren nun veröffentlicht *Der SPIEGEL* mit jeder Ausgabe *Videos*
 Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL App* nicht benutze, soll mein "Getippe" wenigstens anderen zugute kommen. Daher hier die Videos zu jeder Ausgabe, simpel als Text-Dokument, quasi als Anti-App ;) oder bis jemand hier ne App dazu baut... Für den ein oder anderen könnten diese direkten Links auch helfen, wenn die Videos aus der App nicht laufen oder aus irgend einem anderen Grund *nicht gehen*. Egal. Hier die Videos, manchmal komplett, manchmal nur das, was ich selbst geschaut habe:
 
 
+### Der SPIEGEL - Die Videos der Ausgabe 46/2014
+- [spiegel.de/sp462014wiedervereinigung](http://spiegel.de/sp462014wiedervereinigung)
+- [spiegel.de/sp462014spielsucht](http://spiegel.de/sp462014spielsucht)
+- [spiegel.de/sp462014martin](http://spiegel.de/sp462014martin) George R. R. Martin
+- [spiegel.de/sp462014notaufnahme](http://spiegel.de/sp462014notaufnahme)
+- [spiegel.de/sp462014rosetta](http://spiegel.de/sp462014rosetta)
+- [spiegel.de/sp462014fotografie](http://spiegel.de/sp462014fotografie)
+
+
 ### Der SPIEGEL - Die Videos der Ausgabe 45/2014
 - [spiegel.de/sp452014stottern](http://spiegel.de/sp452014stottern)
 - [spiegel.de/sp452014wind](http://spiegel.de/sp452014wind)
