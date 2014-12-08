@@ -6,6 +6,16 @@ Seit einigen Jahren nun veröffentlicht *Der SPIEGEL* mit jeder Ausgabe *Videos*
 Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL App* nicht benutze, soll mein "Getippe" wenigstens anderen zugute kommen. Daher hier die Videos zu jeder Ausgabe, simpel als Text-Dokument, quasi als Anti-App ;) oder bis jemand hier ne App dazu baut... Für den ein oder anderen könnten diese direkten Links auch helfen, wenn die Videos aus der App nicht laufen oder aus irgend einem anderen Grund *nicht gehen*. Egal. Hier die Videos, manchmal komplett, manchmal nur das, was ich selbst geschaut habe:
 
 
+### Der SPIEGEL - Die Videos der Ausgabe 50/2014
+- [spiegel.de/sp502014lesen](http://spiegel.de/sp502014lesen)
+- [spiegel.de/sp502014gonzalez](http://spiegel.de/sp502014gonzalez)
+- [spiegel.de/sp502014polio](http://spiegel.de/sp502014polio)
+- [spiegel.de/sp502014kugeln](http://spiegel.de/sp502014kugeln)
+- [spiegel.de/sp502014haftbefehl](http://spiegel.de/sp502014haftbefehl)
+- [spiegel.de/sp502014kritik](http://spiegel.de/sp502014kritik) "Winterschlaf"
+- [spiegel.de/sp502014wildnis](http://spiegel.de/sp502014wildnis)
+
+
 ### Der SPIEGEL - Die Videos der Sonderausgabe "Chronik 2014" 1/2014
 - [spiegel.de/jc12014ukraine](http://spiegel.de/jc12014ukraine)
 
