@@ -7,12 +7,12 @@ Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL
 
 
 ### Der SPIEGEL - Die Videos der Ausgabe 50/2014
-- [spiegel.de/sp502014lesen](http://spiegel.de/sp502014lesen) Titegeschichte: Lesen
+- [spiegel.de/sp502014lesen](http://spiegel.de/sp502014lesen) Titelgeschichte: Lesen
 - [spiegel.de/sp502014gonzalez](http://spiegel.de/sp502014gonzalez) eine Angestellte mit 3 Jobs im selben Unternehmen stirbt
-- [spiegel.de/sp502014polio](http://spiegel.de/sp502014polio) Polio Impfungen verhindert vom IS
+- [spiegel.de/sp502014polio](http://spiegel.de/sp502014polio) Polio-Impfungen, verhindert vom IS
 - [spiegel.de/sp502014kugeln](http://spiegel.de/sp502014kugeln) Weihnachtsbaum-Dekoration aus Polen
 - [spiegel.de/sp502014haftbefehl](http://spiegel.de/sp502014haftbefehl) der Rapper Haftbefehl
-- [spiegel.de/sp502014kritik](http://spiegel.de/sp502014kritik) "Winterschlaf" (Kış Uykusu)
+- [spiegel.de/sp502014kritik](http://spiegel.de/sp502014kritik) "Winterschlaf" ("Kış Uykusu")
 - [spiegel.de/sp502014wildnis](http://spiegel.de/sp502014wildnis) Deutsche Nationalparks
 
 
