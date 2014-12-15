@@ -6,6 +6,16 @@ Seit einigen Jahren nun veröffentlicht *Der SPIEGEL* mit jeder Ausgabe *Videos*
 Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL App* nicht benutze, soll mein "Getippe" wenigstens anderen zugute kommen. Daher hier die Videos zu jeder Ausgabe, simpel als Text-Dokument, quasi als Anti-App ;) oder bis jemand hier ne App dazu baut... Für den ein oder anderen könnten diese direkten Links auch helfen, wenn die Videos aus der App nicht laufen oder aus irgend einem anderen Grund *nicht gehen*. Egal. Hier die Videos, manchmal komplett, manchmal nur das, was ich selbst geschaut habe:
 
 
+### Der SPIEGEL - Die Videos der Ausgabe 51/2014
+- [spiegel.de/sp512014gin](http://spiegel.de/sp512014gin)
+- [spiegel.de/sp512014opel](http://spiegel.de/sp512014opel)
+- [spiegel.de/sp512014cia](http://spiegel.de/sp512014cia)
+- [spiegel.de/sp512014schokolade](http://spiegel.de/sp512014schokolade)
+- [spiegel.de/sp512014venedig](http://spiegel.de/sp512014venedig)
+- [spiegel.de/sp512014jacobson](http://spiegel.de/sp512014jacobson)
+- [spiegel.de/sp512014fleetwood](http://spiegel.de/sp512014fleetwood)
+
+
 ### Der SPIEGEL - Die Videos der Ausgabe 50/2014
 - [spiegel.de/sp502014lesen](http://spiegel.de/sp502014lesen) Titelgeschichte: Lesen
 - [spiegel.de/sp502014gonzalez](http://spiegel.de/sp502014gonzalez) eine Angestellte mit 3 Jobs im selben Unternehmen stirbt
