@@ -6,6 +6,18 @@ Seit einigen Jahren nun veröffentlicht *Der SPIEGEL* mit jeder Ausgabe *Videos*
 Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL App* nicht benutze, soll mein "Getippe" wenigstens anderen zugute kommen. Daher hier die Videos zu jeder Ausgabe, simpel als Text-Dokument, quasi als Anti-App ;) oder bis jemand hier ne App dazu baut... Für den ein oder anderen könnten diese direkten Links auch helfen, wenn die Videos aus der App nicht laufen oder aus irgend einem anderen Grund *nicht gehen*. Egal. Hier die Videos, manchmal komplett, manchmal nur das, was ich selbst geschaut habe:
 
 
+### Der SPIEGEL - Die Videos der Ausgabe 52/2014
+- [spiegel.de/sp522014leihmutter](http://spiegel.de/sp522014leihmutter)
+- [spiegel.de/sp522014streetspotr](http://spiegel.de/sp522014streetspotr)
+- [spiegel.de/sp522014oper](http://spiegel.de/sp522014oper)
+- [spiegel.de/sp522014hawking](http://spiegel.de/sp522014hawking) "Die Entdeckung der Unendlichkeit"
+- [spiegel.de/sp522014honig](http://spiegel.de/sp522014honig)
+- [spiegel.de/sp522014grimaud](http://spiegel.de/sp522014grimaud)
+- [spiegel.de/sp522014gott](http://spiegel.de/sp522014gott)
+- [spiegel.de/sp522014roboter](http://spiegel.de/sp522014roboter)
+- [spiegel.de/sp522014fischer](http://spiegel.de/sp522014fischer)
+
+
 ### Der SPIEGEL - Die Videos der Ausgabe 51/2014
 - [spiegel.de/sp512014gin](http://spiegel.de/sp512014gin)
 - [spiegel.de/sp512014opel](http://spiegel.de/sp512014opel)
@@ -611,6 +623,33 @@ Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL
 * http://spiegel.de/app502012ikea
 * http://spiegel.de/app502012drohnen
 * http://spiegel.de/app502012callofduty
+
+
+### Der Spiegel 48/2012
+
+* spiegel.de/app482012rihanna
+
+
+### Der Spiegel 46/2012
+
+* spiegel.de/app462012roma
+* spiegel.de/app462012apple
+* spiegel.de/app462012boxer
+* spiegel.de/app462012laufapps
+* spiegel.de/app462012emscher
+* spiegel.de/app462012charisma
+
+
+### Der SPIEGEL 45/2012
+
+* spiegel.de/app452012afghanistan
+* spiegel.de/app452012takko
+* spiegel.de/app452012boxer
+* spiegel.de/app452012sterne
+* spiegel.de/app452012nokia
+* spiegel.de/app452012argo
+* spiegel.de/app452012madmen
+* spiegel.de/app452012fraktus
 
 
 ### Der SPIEGEL, Videos der Ausgabe 43/2012
