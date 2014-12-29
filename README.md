@@ -6,6 +6,14 @@ Seit einigen Jahren nun veröffentlicht *Der SPIEGEL* mit jeder Ausgabe *Videos*
 Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL App* nicht benutze, soll mein "Getippe" wenigstens anderen zugute kommen. Daher hier die Videos zu jeder Ausgabe, simpel als Text-Dokument, quasi als Anti-App ;) oder bis jemand hier ne App dazu baut... Für den ein oder anderen könnten diese direkten Links auch helfen, wenn die Videos aus der App nicht laufen oder aus irgend einem anderen Grund *nicht gehen*. Egal. Hier die Videos, manchmal komplett, manchmal nur das, was ich selbst geschaut habe:
 
 
+### Der SPIEGEL - Die Videos der Ausgabe 1/2015
+- [spiegel.de/sp012015crossfit](http://spiegel.de/sp012015crossfit)
+- [spiegel.de/sp012015adoptiveltern](http://spiegel.de/sp012015adoptiveltern)
+- [spiegel.de/sp012015gebirge](http://spiegel.de/sp012015gebirge)
+- [spiegel.de/sp012015bbi](http://spiegel.de/sp012015bbi)
+- [spiegel.de/sp012015freundschaft](http://spiegel.de/sp012015freundschaft)
+
+
 ### Der SPIEGEL - Die Videos der Ausgabe 52/2014
 - [spiegel.de/sp522014leihmutter](http://spiegel.de/sp522014leihmutter)
 - [spiegel.de/sp522014streetspotr](http://spiegel.de/sp522014streetspotr)
