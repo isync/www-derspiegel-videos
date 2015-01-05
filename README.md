@@ -12,7 +12,7 @@ Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL
 - [spiegel.de/sp22015insel](http://spiegel.de/sp22015insel) DomRep
 - [spiegel.de/sp22015tempelberg](http://spiegel.de/sp22015tempelberg)
 - [spiegel.de/sp22015traumlabor](http://spiegel.de/sp22015traumlabor)
-- [spiegel.de/sp022015atheismus](http://spiegel.de/sp022015atheismus)
+- [spiegel.de/sp22015atheismus](http://spiegel.de/sp22015atheismus)
 - [spiegel.de/sp22015kraftwerk](http://spiegel.de/sp22015kraftwerk)
 - [spiegel.de/sp22015gier](http://spiegel.de/sp22015gier) Kino: "Die süße Gier"
  
