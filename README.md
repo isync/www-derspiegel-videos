@@ -6,6 +6,17 @@ Seit einigen Jahren nun veröffentlicht *Der SPIEGEL* mit jeder Ausgabe *Videos*
 Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL App* nicht benutze, soll mein "Getippe" wenigstens anderen zugute kommen. Daher hier die Videos zu jeder Ausgabe, simpel als Text-Dokument, quasi als Anti-App ;) oder bis jemand hier ne App dazu baut... Für den ein oder anderen könnten diese direkten Links auch helfen, wenn die Videos aus der App nicht laufen oder aus irgend einem anderen Grund *nicht gehen*. Egal. Hier die Videos, manchmal komplett, manchmal nur das, was ich selbst geschaut habe:
 
 
+### Der SPIEGEL - Die Videos der Ausgabe 2/2015
+- [spiegel.de/sp22015flucht](http://spiegel.de/sp22015flucht)
+- [spiegel.de/sp22015sweetie](http://spiegel.de/sp22015sweetie)
+- [spiegel.de/sp22015insel](http://spiegel.de/sp22015insel) DomRep
+- [spiegel.de/sp22015tempelberg](http://spiegel.de/sp22015tempelberg)
+- [spiegel.de/sp22015traumlabor](http://spiegel.de/sp22015traumlabor)
+- [spiegel.de/sp022015atheismus](http://spiegel.de/sp022015atheismus)
+- [spiegel.de/sp22015kraftwerk](http://spiegel.de/sp22015kraftwerk)
+- [spiegel.de/sp22015gier](http://spiegel.de/sp22015gier) Kino: "Die süße Gier"
+ 
+
 ### Der SPIEGEL - Die Videos der Ausgabe 1/2015
 - [spiegel.de/sp012015crossfit](http://spiegel.de/sp012015crossfit)
 - [spiegel.de/sp012015adoptiveltern](http://spiegel.de/sp012015adoptiveltern)
