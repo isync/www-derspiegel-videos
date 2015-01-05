@@ -14,7 +14,7 @@ Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL
 - [spiegel.de/sp22015traumlabor](http://spiegel.de/sp22015traumlabor)
 - [spiegel.de/sp22015atheismus](http://spiegel.de/sp22015atheismus)
 - [spiegel.de/sp22015kraftwerk](http://spiegel.de/sp22015kraftwerk)
-- [spiegel.de/sp22015gier](http://spiegel.de/sp22015gier) Kino: "Die süße Gier"
+- [spiegel.de/sp22015gier](http://spiegel.de/sp22015gier) Kino: "Die süße Gier" (Il Capitale Umano)
  
 
 ### Der SPIEGEL - Die Videos der Ausgabe 1/2015
