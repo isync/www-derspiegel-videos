@@ -7,6 +7,17 @@ Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL
 
 
 ### Der SPIEGEL - Die Videos der Ausgabe 2/2015
+- [spiegel.de/sp032015frankreich](http://spiegel.de/sp032015frankreich)
+- [spiegel.de/sp032015schule](http://spiegel.de/sp032015schule)
+- [spiegel.de/sp032015ukraine](http://spiegel.de/sp032015ukraine) Buk
+- [spiegel.de/sp032015therapeut](http://spiegel.de/sp032015therapeut)
+- [spiegel.de/sp032015gorbatschow](http://spiegel.de/sp032015gorbatschow)
+- [spiegel.de/sp032015china](http://spiegel.de/sp032015china) Hangzhou
+- [spiegel.de/sp032015home](http://spiegel.de/sp032015home) smarthome
+- [spiegel.de/sp032015jolie](http://spiegel.de/sp032015jolie)
+
+
+### Der SPIEGEL - Die Videos der Ausgabe 2/2015
 - [spiegel.de/sp22015flucht](http://spiegel.de/sp22015flucht)
 - [spiegel.de/sp22015sweetie](http://spiegel.de/sp22015sweetie)
 - [spiegel.de/sp22015insel](http://spiegel.de/sp22015insel) DomRep
