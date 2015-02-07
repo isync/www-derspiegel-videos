@@ -6,6 +6,20 @@ Seit einigen Jahren nun veröffentlicht *Der SPIEGEL* mit jeder Ausgabe *Videos*
 Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL App* nicht benutze, soll mein "Getippe" wenigstens anderen zugute kommen. Daher hier die Videos zu jeder Ausgabe, simpel als Text-Dokument, quasi als Anti-App ;) oder bis jemand hier ne App dazu baut... Für den ein oder anderen könnten diese direkten Links auch helfen, wenn die Videos aus der App nicht laufen oder aus irgend einem anderen Grund *nicht gehen*. Egal. Hier die Videos, manchmal komplett, manchmal nur das, was ich selbst geschaut habe:
 
 
+### Der SPIEGEL - Die Videos der Ausgabe 7/2015
+- [spiegel.de/sp072015wahl](http://spiegel.de/sp072015wahl)
+- [spiegel.de/sp072015geld](http://spiegel.de/sp072015geld)
+- [spiegel.de/sp072015griechenland](http://spiegel.de/sp072015griechenland)
+- [spiegel.de/sp072015mali](http://spiegel.de/sp072015mali)
+- [spiegel.de/sp072015rio](http://spiegel.de/sp072015rio)
+- [spiegel.de/sp072015lebensmittel](http://spiegel.de/sp072015lebensmittel)
+- [spiegel.de/sp072015astronauten](http://spiegel.de/sp072015astronauten)
+- [spiegel.de/sp072015bogen](http://spiegel.de/sp072015bogen)
+- [spiegel.de/sp072015grey](http://spiegel.de/sp072015grey)
+- [spiegel.de/sp072015eidinger](http://spiegel.de/sp072015eidinger)
+- [spiegel.de/sp072015kritik](http://spiegel.de/sp072015kritik) "Selma"
+
+
 ### Der SPIEGEL - Die Videos der Ausgabe 6/2015
 - [spiegel.de/sp062015griechenland](http://spiegel.de/sp062015griechenland)
 - [spiegel.de/sp062015steuer](http://spiegel.de/sp062015steuer)
