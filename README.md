@@ -6,6 +6,18 @@ Seit einigen Jahren nun veröffentlicht *Der SPIEGEL* mit jeder Ausgabe *Videos*
 Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL App* nicht benutze, soll mein "Getippe" wenigstens anderen zugute kommen. Daher hier die Videos zu jeder Ausgabe, simpel als Text-Dokument, quasi als Anti-App ;) oder bis jemand hier ne App dazu baut... Für den ein oder anderen könnten diese direkten Links auch helfen, wenn die Videos aus der App nicht laufen oder aus irgend einem anderen Grund *nicht gehen*. Egal. Hier die Videos, manchmal komplett, manchmal nur das, was ich selbst geschaut habe:
 
 
+### Der SPIEGEL - Die Videos der Ausgabe 8/2015
+- [spiegel.de/sp082015ukraine](http://spiegel.de/sp082015ukraine) Merkel auf Mission
+- [spiegel.de/sp082015varoufakis](http://spiegel.de/sp082015varoufakis)
+- [spiegel.de/sp082015ministerium](http://spiegel.de/sp082015ministerium)
+- [spiegel.de/sp082015younow](http://spiegel.de/sp082015younow)
+- [spiegel.de/sp082015maidan](http://spiegel.de/sp082015maidan)
+- [spiegel.de/sp082015drohnen](http://spiegel.de/sp082015drohnen) Drones for Good Award
+- [spiegel.de/sp082015sniper](http://spiegel.de/sp082015sniper) "American Sniper"
+- [spiegel.de/sp082015](http://spiegel.de/sp082015grey)
+- [spiegel.de/sp082015polt](http://spiegel.de/sp082015polt) Gerhard Polt
+
+
 ### Der SPIEGEL - Die Videos der Ausgabe 7/2015
 - [spiegel.de/sp072015wahl](http://spiegel.de/sp072015wahl)
 - [spiegel.de/sp072015geld](http://spiegel.de/sp072015geld)
