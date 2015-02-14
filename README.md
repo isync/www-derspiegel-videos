@@ -14,7 +14,7 @@ Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL
 - [spiegel.de/sp082015maidan](http://spiegel.de/sp082015maidan)
 - [spiegel.de/sp082015drohnen](http://spiegel.de/sp082015drohnen) Drones for Good Award
 - [spiegel.de/sp082015sniper](http://spiegel.de/sp082015sniper) "American Sniper"
-- [spiegel.de/sp082015](http://spiegel.de/sp082015grey)
+- [spiegel.de/sp082015grey](http://spiegel.de/sp082015grey)
 - [spiegel.de/sp082015polt](http://spiegel.de/sp082015polt) Gerhard Polt
 
 
