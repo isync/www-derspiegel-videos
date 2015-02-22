@@ -9,6 +9,14 @@ Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL
 ### Der SPIEGEL - Die Videos der Ausgabe 9/2015
 - [spiegel.de/sp092015flucht](http://spiegel.de/sp092015flucht)
 - [spiegel.de/sp092015klima](http://spiegel.de/sp092015klima)
+- [spiegel.de/sp092015roboter](http://spiegel.de/sp092015roboter)
+- [spiegel.de/sp092015zingler](http://spiegel.de/sp092015zingler)
+- [spiegel.de/sp092015ukraine](http://spiegel.de/sp092015ukraine)
+- [spiegel.de/sp092015baum](http://spiegel.de/sp092015baum)
+- [spiegel.de/sp092015orange](http://spiegel.de/sp092015orange) Orange Is The New Black
+- [spiegel.de/sp092015moore](http://spiegel.de/sp092015moore) Still Alice
+- [spiegel.de/sp092015uderzo](http://spiegel.de/sp092015uderzo)
+- [spiegel.de/sp092015gallagher](http://spiegel.de/sp092015gallagher)
 
 
 ### Der SPIEGEL - Die Videos der Ausgabe 8/2015
@@ -678,90 +686,75 @@ Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL
 
 
 ### Der SPIEGEL, Videos der Ausgabe 6/2013
-
-* http://spiegel.de/app62013familie
-* http://spiegel.de/app62013damaskus
-* http://spiegel.de/app62013pid
-* http://spiegel.de/app62013filmmarkt
+- http://spiegel.de/app62013familie
+- http://spiegel.de/app62013damaskus
+- http://spiegel.de/app62013pid
+- http://spiegel.de/app62013filmmarkt
 
 
 ### Der SPIEGEL, Videos der Ausgabe 52/2012
-
-* http://spiegel.de/app522012priester
-* http://spiegel.de/app522012afghanistan
-* http://spiegel.de/app522012eugipfel
-* http://spiegel.de/app522012experiment	Das "Prizessin-Alice Experiment"
-* http://spiegel.de/app522012wisente
-* http://spiegel.de/app522012ludwig
-* http://spiegel.de/app522012kritik
-* http://spiegel.de/app522012
-* http://spiegel.de/app522012
+- http://spiegel.de/app522012priester
+- http://spiegel.de/app522012afghanistan
+- http://spiegel.de/app522012eugipfel
+- http://spiegel.de/app522012experiment	Das "Prizessin-Alice Experiment"
+- http://spiegel.de/app522012wisente
+- http://spiegel.de/app522012ludwig
+- http://spiegel.de/app522012kritik
+- http://spiegel.de/app522012
+- http://spiegel.de/app522012
 
 
 ### Der SPIEGEL, Videos der Ausgabe 51/2012
-
-* http://spiegel.de/app512012akte
-* http://spiegel.de/app512012lara
-* http://spiegel.de/app512012irak
-* http://spiegel.de/app512012villen
-* http://spiegel.de/app512012himjar
-* http://spiegel.de/app512012grimm
-* http://spiegel.de/app512012bbi
+- http://spiegel.de/app512012akte
+- http://spiegel.de/app512012lara
+- http://spiegel.de/app512012irak
+- http://spiegel.de/app512012villen
+- http://spiegel.de/app512012himjar
+- http://spiegel.de/app512012grimm
+- http://spiegel.de/app512012bbi
 
 
 ### Der SPIEGEL, Videos der Ausgabe 50/2012
-
-* http://spiegel.de/app502012beck
-* http://spiegel.de/app502012ikea
-* http://spiegel.de/app502012drohnen
-* http://spiegel.de/app502012callofduty
+- http://spiegel.de/app502012beck
+- http://spiegel.de/app502012ikea
+- http://spiegel.de/app502012drohnen
+- http://spiegel.de/app502012callofduty
 
 
 ### Der Spiegel 48/2012
-
-* spiegel.de/app482012rihanna
+- spiegel.de/app482012rihanna
 
 
 ### Der Spiegel 46/2012
-
-* spiegel.de/app462012roma
-* spiegel.de/app462012apple
-* spiegel.de/app462012boxer
-* spiegel.de/app462012laufapps
-* spiegel.de/app462012emscher
-* spiegel.de/app462012charisma
+- spiegel.de/app462012roma
+- spiegel.de/app462012apple
+- spiegel.de/app462012boxer
+- spiegel.de/app462012laufapps
+- spiegel.de/app462012emscher
+- spiegel.de/app462012charisma
 
 
 ### Der SPIEGEL 45/2012
-
-* spiegel.de/app452012afghanistan
-* spiegel.de/app452012takko
-* spiegel.de/app452012boxer
-* spiegel.de/app452012sterne
-* spiegel.de/app452012nokia
-* spiegel.de/app452012argo
-* spiegel.de/app452012madmen
-* spiegel.de/app452012fraktus
+- spiegel.de/app452012afghanistan
+- spiegel.de/app452012takko
+- spiegel.de/app452012boxer
+- spiegel.de/app452012sterne
+- spiegel.de/app452012nokia
+- spiegel.de/app452012argo
+- spiegel.de/app452012madmen
+- spiegel.de/app452012fraktus
 
 
 ### Der SPIEGEL, Videos der Ausgabe 43/2012
+- http://spiegel.de/app432012afghanistan
+- http://spiegel.de/app432012microsoft
+- http://spiegel.de/app432012google
+- http://spiegel.de/app432012obama
+- http://spiegel.de/app432012gaddafi
+- http://spiegel.de/app432012ukraine
+- http://spiegel.de/app432012welt
+- http://spiegel.de/app432012nick
 
-* http://spiegel.de/app432012afghanistan
-* http://spiegel.de/app432012microsoft
-* http://spiegel.de/app432012google
-* http://spiegel.de/app432012obama
-* http://spiegel.de/app432012gaddafi
-* http://spiegel.de/app432012ukraine
-* http://spiegel.de/app432012welt
-* http://spiegel.de/app432012nick
-
-
---
-
-Copy & paste template:
-### Der SPIEGEL - Die Videos der Ausgabe /20
-- [spiegel.de/app102014](http://spiegel.de/app102014)
-- ...und ein link zu einem Filmtrailer, QR-code ohne URL-Angabe
 
 --
 
