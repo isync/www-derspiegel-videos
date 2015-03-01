@@ -6,6 +6,17 @@ Seit einigen Jahren nun veröffentlicht *Der SPIEGEL* mit jeder Ausgabe *Videos*
 Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL App* nicht benutze, soll mein "Getippe" wenigstens anderen zugute kommen. Daher hier die Videos zu jeder Ausgabe, simpel als Text-Dokument, quasi als Anti-App ;) oder bis jemand hier ne App dazu baut... Für den ein oder anderen könnten diese direkten Links auch helfen, wenn die Videos aus der App nicht laufen oder aus irgend einem anderen Grund *nicht gehen*. Egal. Hier die Videos, manchmal komplett, manchmal nur das, was ich selbst geschaut habe:
 
 
+### Der SPIEGEL - Die Videos der Ausgabe 10/2015
+- [spiegel.de/sp102015valley](http://spiegel.de/sp102015valley)
+- [spiegel.de/sp102015dienst](http://spiegel.de/sp102015dienst)
+- [spiegel.de/sp102015griechen](http://spiegel.de/sp102015griechen)
+- [spiegel.de/sp102015medien](http://spiegel.de/sp102015medien)
+- [spiegel.de/sp102015yoga](http://spiegel.de/sp102015yoga)
+- [spiegel.de/sp102015houellebecq](http://spiegel.de/sp102015houellebecq)
+- [spiegel.de/sp102015bjoerk](http://spiegel.de/sp102015bjoerk)
+- [spiegel.de/sp102015transparent](http://spiegel.de/sp102015transparent)
+
+
 ### Der SPIEGEL - Die Videos der Ausgabe 9/2015
 - [spiegel.de/sp092015flucht](http://spiegel.de/sp092015flucht)
 - [spiegel.de/sp092015klima](http://spiegel.de/sp092015klima)
