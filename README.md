@@ -14,7 +14,7 @@ Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL
 - [spiegel.de/sp132015brasilien](http://spiegel.de/sp132015brasilien)
 - [spiegel.de/sp132015brightman](http://spiegel.de/sp132015brightman)
 - [spiegel.de/sp132015woelfe](http://spiegel.de/sp132015woelfe)
-- [spiegel.de/sp132015](http://spiegel.de/sp132015ulitzkaja)
+- [spiegel.de/sp132015ulitzkaja](http://spiegel.de/sp132015ulitzkaja)
 
 
 ### Der SPIEGEL - Die Videos der Ausgabe 12/2015
