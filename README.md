@@ -6,6 +6,17 @@ Seit einigen Jahren nun veröffentlicht *Der SPIEGEL* mit jeder Ausgabe *Videos*
 Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL App* nicht benutze, soll mein "Getippe" wenigstens anderen zugute kommen. Daher hier die Videos zu jeder Ausgabe, simpel als Text-Dokument, quasi als Anti-App ;) oder bis jemand hier ne App dazu baut... Für den ein oder anderen könnten diese direkten Links auch helfen, wenn die Videos aus der App nicht laufen oder aus irgend einem anderen Grund *nicht gehen*. Egal. Hier die Videos, manchmal komplett, manchmal nur das, was ich selbst geschaut habe:
 
 
+### Der SPIEGEL - Die Videos der Ausgabe 13/2015
+- [spiegel.de/sp132015limburg](http://spiegel.de/sp132015limburg)
+- [spiegel.de/sp132015smartphone](http://spiegel.de/sp132015smartphone)
+- [spiegel.de/sp132015muenster](http://spiegel.de/sp132015muenster)
+- [spiegel.de/sp132015frankreich](http://spiegel.de/sp132015frankreich)
+- [spiegel.de/sp132015brasilien](http://spiegel.de/sp132015brasilien)
+- [spiegel.de/sp132015brightman](http://spiegel.de/sp132015brightman)
+- [spiegel.de/sp132015woelfe](http://spiegel.de/sp132015woelfe)
+- [spiegel.de/sp132015](http://spiegel.de/sp132015ulitzkaja)
+
+
 ### Der SPIEGEL - Die Videos der Ausgabe 12/2015
 - [spiegel.de/sp122015demografie](http://spiegel.de/sp122015demografie)
 - [spiegel.de/sp122015lufthansa](http://spiegel.de/sp122015lufthansa)
