@@ -6,6 +6,33 @@ Seit einigen Jahren nun veröffentlicht *Der SPIEGEL* mit jeder Ausgabe *Videos*
 Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL App* nicht benutze, soll mein "Getippe" wenigstens anderen zugute kommen. Daher hier die Videos zu jeder Ausgabe, simpel als Text-Dokument, quasi als Anti-App ;) oder bis jemand hier ne App dazu baut... Für den ein oder anderen könnten diese direkten Links auch helfen, wenn die Videos aus der App nicht laufen oder aus irgend einem anderen Grund *nicht gehen*. Egal. Hier die Videos, manchmal komplett, manchmal nur das, was ich selbst geschaut habe:
 
 
+### Der SPIEGEL - Die Videos der Ausgabe 15/2015
+- [spiegel.de/sp152015piloten](http://spiegel.de/sp152015piloten)
+- [spiegel.de/sp152015calmeyer](http://spiegel.de/sp152015calmeyer)
+- [spiegel.de/sp152015schwein](http://spiegel.de/sp152015schwein)
+- [spiegel.de/sp152015paten](http://spiegel.de/sp152015paten)
+- [spiegel.de/sp152015bank](http://spiegel.de/sp152015bank)
+- [spiegel.de/sp152015mode](http://spiegel.de/sp152015mode) Modomoto
+- [spiegel.de/sp152015gremm](http://spiegel.de/sp152015gremm)
+- [spiegel.de/sp152015milke](http://spiegel.de/sp152015milke)
+- [spiegel.de/sp152015blog](http://spiegel.de/sp152015blog) Guido Fawkes
+- [spiegel.de/sp152015sauna](http://spiegel.de/sp152015sauna)
+- [spiegel.de/sp152015basketball](http://spiegel.de/sp152015basketball)
+- [spiegel.de/sp152015filme](http://spiegel.de/sp152015filme)
+- [spiegel.de/sp152015kinney](http://spiegel.de/sp152015kinney) Sleater-Kinney
+
+
+### Der SPIEGEL - Die Videos der Ausgabe 14/2015
+- [spiegel.de/sp142015absturz](http://spiegel.de/sp142015absturz)
+- [spiegel.de/sp142015maas](http://spiegel.de/sp142015maas)
+- [spiegel.de/sp142015elte](http://spiegel.de/sp142015elte)
+- [spiegel.de/sp142015cleese](http://spiegel.de/sp142015cleese)
+- [spiegel.de/sp142015zhongmi](http://spiegel.de/sp142015zhongmi)
+- [spiegel.de/sp142015serengeti](http://spiegel.de/sp142015serengeti)
+- [spiegel.de/sp142015transrapid](http://spiegel.de/sp142015transrapid)
+- [spiegel.de/sp142015punks](http://spiegel.de/sp142015punks)
+
+
 ### Der SPIEGEL - Die Videos der Ausgabe 13/2015
 - [spiegel.de/sp132015limburg](http://spiegel.de/sp132015limburg)
 - [spiegel.de/sp132015smartphone](http://spiegel.de/sp132015smartphone)
