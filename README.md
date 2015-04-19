@@ -6,6 +6,33 @@ Seit einigen Jahren nun veröffentlicht *Der SPIEGEL* mit jeder Ausgabe *Videos*
 Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL App* nicht benutze, soll mein "Getippe" wenigstens anderen zugute kommen. Daher hier die Videos zu jeder Ausgabe, simpel als Text-Dokument, quasi als Anti-App ;) oder bis jemand hier ne App dazu baut... Für den ein oder anderen könnten diese direkten Links auch helfen, wenn die Videos aus der App nicht laufen oder aus irgend einem anderen Grund *nicht gehen*. Egal. Hier die Videos, manchmal komplett, manchmal nur das, was ich selbst geschaut habe:
 
 
+### Der SPIEGEL - Die Videos der Ausgabe 17/2015
+- [spiegel.de/sp172015vw](http://spiegel.de/sp172015vw)
+- [spiegel.de/sp172015lefloid](http://spiegel.de/sp172015lefloid)
+- [spiegel.de/sp172015is](http://spiegel.de/sp172015is)
+- [spiegel.de/sp172015clinton](http://spiegel.de/sp172015clinton)
+- [spiegel.de/sp172015grass](http://spiegel.de/sp172015grass)
+- [spiegel.de/sp172015babelsberg](http://spiegel.de/sp172015babelsberg)
+- [spiegel.de/sp172015groenemeyer](http://spiegel.de/sp172015groenemeyer)
+- [spiegel.de/sp172015film](http://spiegel.de/sp172015film) Ex Machina
+- [spiegel.de/sp172015karbon](http://spiegel.de/sp172015karbon)
+
+
+### Der SPIEGEL - Die Videos der Ausgabe 16/2015
+- [spiegel.de/sp162015guttenberg](http://spiegel.de/sp162015guttenberg)
+- [spiegel.de/sp162015interpol](http://spiegel.de/sp162015interpol)
+- [spiegel.de/sp162015bodensee](http://spiegel.de/sp162015bodensee)
+- [spiegel.de/sp162015klieger](http://spiegel.de/sp162015klieger)
+- [spiegel.de/sp162015shoppen](http://spiegel.de/sp162015shoppen)
+- [spiegel.de/sp162015tierhandel](http://spiegel.de/sp162015tierhandel)
+- [spiegel.de/sp162015weltkrieg](http://spiegel.de/sp162015weltkrieg)
+- [spiegel.de/sp162015scio](http://spiegel.de/sp162015scio)
+- [spiegel.de/sp162015katar](http://spiegel.de/sp162015katar)
+- [spiegel.de/sp162015wolf](http://spiegel.de/sp162015wolf)
+- [spiegel.de/sp162015brand](http://spiegel.de/sp162015brand)
+- [spiegel.de/sp162015](http://spiegel.de/sp162015)
+
+
 ### Der SPIEGEL - Die Videos der Ausgabe 15/2015
 - [spiegel.de/sp152015piloten](http://spiegel.de/sp152015piloten)
 - [spiegel.de/sp152015calmeyer](http://spiegel.de/sp152015calmeyer)
