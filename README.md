@@ -6,6 +6,30 @@ Seit einigen Jahren nun veröffentlicht *Der SPIEGEL* mit jeder Ausgabe *Videos*
 Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL App* nicht benutze, soll mein "Getippe" wenigstens anderen zugute kommen. Daher hier die Videos zu jeder Ausgabe, simpel als Text-Dokument, quasi als Anti-App ;) oder bis jemand hier ne App dazu baut... Für den ein oder anderen könnten diese direkten Links auch helfen, wenn die Videos aus der App nicht laufen oder aus irgend einem anderen Grund *nicht gehen*. Egal. Hier die Videos, manchmal komplett, manchmal nur das, was ich selbst geschaut habe:
 
 
+### Der SPIEGEL - Die Videos der Ausgabe 24/2015
+- [spiegel.de/sp242015drohung](http://spiegel.de/sp242015drohung)
+- [spiegel.de/sp242015wagenknecht](http://spiegel.de/sp242015wagenknecht)
+- [spiegel.de/sp242015russland](http://spiegel.de/sp242015russland)
+- [spiegel.de/sp242015bush](http://spiegel.de/sp242015bush)
+- [spiegel.de/sp242015brexit](http://spiegel.de/sp242015brexit)
+- [spiegel.de/sp242015schweiz](http://spiegel.de/sp242015schweiz)
+- [spiegel.de/sp242015martin](http://spiegel.de/sp242015martin) Searching Sirocco
+- [spiegel.de/sp242015glyphosat](http://spiegel.de/sp242015glyphosat)
+- [spiegel.de/sp242015demenz](http://spiegel.de/sp242015demenz)
+
+
+### Der SPIEGEL - Die Videos der Ausgabe 23/2015
+- [spiegel.de/sp232015fifa](http://spiegel.de/sp232015fifa)
+- [spiegel.de/sp232015leopard](http://spiegel.de/sp232015leopard)
+- [spiegel.de/sp232015ttip](http://spiegel.de/sp232015ttip)
+- [spiegel.de/sp232015rohingya](http://spiegel.de/sp232015rohingya)
+- [spiegel.de/sp232015geisel](http://spiegel.de/sp232015geisel)
+- [spiegel.de/sp232015ci](http://spiegel.de/sp232015ci)
+- [spiegel.de/sp232015lagerfeld](http://spiegel.de/sp232015lagerfeld)
+- [spiegel.de/sp232015film](http://spiegel.de/sp232015film) "Die Frau in Gold"
+- [spiegel.de/sp232015winslow](http://spiegel.de/sp232015winslow)
+
+
 ### Der SPIEGEL - Die Videos der Ausgabe 21/2015
 - [spiegel.de/sp212015evangelikale](http://spiegel.de/sp212015evangelikale)
 - [spiegel.de/sp212015regeln](http://spiegel.de/sp212015regeln)
