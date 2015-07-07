@@ -6,6 +6,16 @@ Seit einigen Jahren nun veröffentlicht *Der SPIEGEL* mit jeder Ausgabe *Videos*
 Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL App* nicht benutze, soll mein "Getippe" wenigstens anderen zugute kommen. Daher hier die Videos zu jeder Ausgabe, simpel als Text-Dokument, quasi als Anti-App ;) oder bis jemand hier ne App dazu baut... Für den ein oder anderen könnten diese direkten Links auch helfen, wenn die Videos aus der App nicht laufen oder aus irgend einem anderen Grund *nicht gehen*. Egal. Hier die Videos, manchmal komplett, manchmal nur das, was ich selbst geschaut habe:
 
 
+### Der SPIEGEL - Die Videos der Ausgabe 28/2015
+- [spiegel.de/sp282015fluechtling](http://spiegel.de/sp282015fluechtling)
+- [spiegel.de/sp282015szenario](http://spiegel.de/sp282015szenario)
+- [spiegel.de/sp282015gaza](http://spiegel.de/sp282015gaza)
+- [spiegel.de/sp282015sizilien](http://spiegel.de/sp282015sizilien)
+- [spiegel.de/sp282015schaefer](http://spiegel.de/sp282015schaefer)
+- [spiegel.de/sp282015winehouse](http://spiegel.de/sp282015winehouse)
+- [spiegel.de/sp282015filmkritik](http://spiegel.de/sp282015filmkritik) "Paradise Lost"
+
+
 ### Der SPIEGEL - Die Videos der Ausgabe 24/2015
 - [spiegel.de/sp242015drohung](http://spiegel.de/sp242015drohung)
 - [spiegel.de/sp242015wagenknecht](http://spiegel.de/sp242015wagenknecht)
