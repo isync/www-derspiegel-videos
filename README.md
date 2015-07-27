@@ -6,6 +6,17 @@ Seit einigen Jahren nun veröffentlicht *Der SPIEGEL* mit jeder Ausgabe *Videos*
 Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL App* nicht benutze, soll mein "Getippe" wenigstens anderen zugute kommen. Daher hier die Videos zu jeder Ausgabe, simpel als Text-Dokument, quasi als Anti-App ;) oder bis jemand hier ne App dazu baut... Für den ein oder anderen könnten diese direkten Links auch helfen, wenn die Videos aus der App nicht laufen oder aus irgend einem anderen Grund *nicht gehen*. Egal. Hier die Videos, manchmal komplett, manchmal nur das, was ich selbst geschaut habe:
 
 
+### Der SPIEGEL - Die Videos der Ausgabe 31/2015
+- [spiegel.de/sp312015flucht](http://spiegel.de/sp312015flucht)
+- [spiegel.de/sp312015is](http://spiegel.de/sp312015is)
+- [spiegel.de/sp312015trump](http://spiegel.de/sp312015trump)
+- [spiegel.de/sp312015anabolika](http://spiegel.de/sp312015anabolika)
+- [spiegel.de/sp312015shepherd](http://spiegel.de/sp312015shepherd)
+- [spiegel.de/sp312015varoufakis](http://spiegel.de/sp312015varoufakis)
+- [spiegel.de/sp312015kino](http://spiegel.de/sp312015kino) "Paper Towns" (Margos Spuren)
+- [spiegel.de/sp312015zwanzig](http://spiegel.de/sp312015zwanzig) "While We're Young"
+
+
 ### Der SPIEGEL - Die Videos der Ausgabe 30/2015
 - [spiegel.de/sp302015versicherung](http://spiegel.de/sp302015versicherung)
 - [spiegel.de/sp302015schaeuble](http://spiegel.de/sp302015schaeuble)
