@@ -6,6 +6,16 @@ Seit einigen Jahren nun veröffentlicht *Der SPIEGEL* mit jeder Ausgabe *Videos*
 Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL App* nicht benutze, soll mein "Getippe" wenigstens anderen zugute kommen. Daher hier die Videos zu jeder Ausgabe, simpel als Text-Dokument, quasi als Anti-App ;) oder bis jemand hier ne App dazu baut... Für den ein oder anderen könnten diese direkten Links auch helfen, wenn die Videos aus der App nicht laufen oder aus irgend einem anderen Grund *nicht gehen*. Egal. Hier die Videos, manchmal komplett, manchmal nur das, was ich selbst geschaut habe:
 
 
+### Der SPIEGEL - Die Videos der Ausgabe 32/2015
+- [spiegel.de/sp322015flucht](http://spiegel.de/sp322015flucht)
+- [spiegel.de/sp322015tuerkei](http://spiegel.de/sp322015tuerkei)
+- [spiegel.de/sp322015bewegung](http://spiegel.de/sp322015bewegung)
+- [spiegel.de/sp322015brand](http://spiegel.de/sp322015brand)
+- [spiegel.de/sp322015drohnen](http://spiegel.de/sp322015drohnen) Dedrone
+- [spiegel.de/sp322015macaskill](http://spiegel.de/sp322015macaskill)
+- [spiegel.de/sp322015luv](http://spiegel.de/sp322015luv) Helly Luv
+
+
 ### Der SPIEGEL - Die Videos der Ausgabe 31/2015
 - [spiegel.de/sp312015flucht](http://spiegel.de/sp312015flucht)
 - [spiegel.de/sp312015is](http://spiegel.de/sp312015is)
