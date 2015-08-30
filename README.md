@@ -5,6 +5,29 @@ Seit einigen Jahren nun veröffentlicht *Der SPIEGEL* mit jeder Ausgabe *Videos*
 
 Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL App* nicht benutze, soll mein "Getippe" wenigstens anderen zugute kommen. Daher hier die Videos zu jeder Ausgabe, simpel als Text-Dokument, quasi als Anti-App ;) oder bis jemand hier ne App dazu baut... Für den ein oder anderen könnten diese direkten Links auch helfen, wenn die Videos aus der App nicht laufen oder aus irgend einem anderen Grund *nicht gehen*. Egal. Hier die Videos, manchmal komplett, manchmal nur das, was ich selbst geschaut habe:
 
+ 
+### Der SPIEGEL - Die Videos der Ausgabe 35/2015
+- [spiegel.de/sp352015bayern](http://spiegel.de/sp352015bayern)
+- [spiegel.de/sp352015strauss](http://spiegel.de/sp352015strauss)
+- [spiegel.de/sp352015nehberg](http://spiegel.de/sp352015nehberg)
+- [spiegel.de/sp352015job](http://spiegel.de/sp352015job)
+- [spiegel.de/sp352015flucht](http://spiegel.de/sp352015flucht)
+- [spiegel.de/sp352015akte](http://spiegel.de/sp352015akte)
+- [spiegel.de/sp352015sucht](http://spiegel.de/sp352015sucht)
+- [spiegel.de/sp352015kalkbrenner](http://spiegel.de/sp352015kalkbrenner)
+- [spiegel.de/sp352015kaufmann](http://spiegel.de/sp352015kaufmann)
+- [spiegel.de/sp352015kermani](http://spiegel.de/sp352015kermani)
+
+
+### Der SPIEGEL - Die Videos der Ausgabe 33/2015
+- [spiegel.de/sp332015wasser](http://spiegel.de/sp332015wasser)
+- [spiegel.de/sp332015netzpolitik](http://spiegel.de/sp332015netzpolitik)
+- [spiegel.de/sp332015phoenix](http://spiegel.de/sp332015phoenix)
+- [spiegel.de/sp332015calais](http://spiegel.de/sp332015calais)
+- [spiegel.de/sp332015kuba](http://spiegel.de/sp332015kuba)
+- [spiegel.de/sp332015robin](http://spiegel.de/sp332015robin)
+- [spiegel.de/sp332015aiweiwei](http://spiegel.de/sp332015aiweiwei)
+
 
 ### Der SPIEGEL - Die Videos der Ausgabe 32/2015
 - [spiegel.de/sp322015flucht](http://spiegel.de/sp322015flucht)
