@@ -6,6 +6,19 @@ Seit einigen Jahren nun veröffentlicht *Der SPIEGEL* mit jeder Ausgabe *Videos*
 Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL App* nicht benutze, soll mein "Getippe" wenigstens anderen zugute kommen. Daher hier die Videos zu jeder Ausgabe, simpel als Text-Dokument, quasi als Anti-App ;) oder bis jemand hier ne App dazu baut... Für den ein oder anderen könnten diese direkten Links auch helfen, wenn die Videos aus der App nicht laufen oder aus irgend einem anderen Grund *nicht gehen*. Egal. Hier die Videos, manchmal komplett, manchmal nur das, was ich selbst geschaut habe:
 
 
+### Der SPIEGEL - Die Videos der Ausgabe 40/2015
+- [spiegel.de/sp402015vw](http://spiegel.de/sp402015vw)
+- [spiegel.de/sp402015ddr](http://spiegel.de/sp402015ddr)
+- [spiegel.de/sp402015muenchen](http://spiegel.de/sp402015muenchen)
+- [spiegel.de/sp402015tymoschenko](http://spiegel.de/sp402015tymoschenko)
+- [spiegel.de/sp402015flucht](http://spiegel.de/sp402015flucht)
+- [spiegel.de/sp402015sprache](http://spiegel.de/sp402015sprache)
+- [spiegel.de/sp402015schnecken](http://spiegel.de/sp402015schnecken)
+- [spiegel.de/sp402015hitler](http://spiegel.de/sp402015hitler)
+- [spiegel.de/sp402015wanda](http://spiegel.de/sp402015wanda)
+- [spiegel.de/sp402015film](http://spiegel.de/sp402015film) Disney/Pixar's "Alles steht Kopf"
+
+
 ### Der SPIEGEL - Die Videos der Ausgabe 39/2015
 - [spiegel.de/sp392015titel](http://spiegel.de/sp392015titel) Wie werden Flüchtlinge in Deutschland erfasst?
 - [spiegel.de/sp392015china](http://spiegel.de/sp392015china)
@@ -14,6 +27,16 @@ Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL
 - [spiegel.de/sp392015marathon](http://spiegel.de/sp392015marathon)
 - [spiegel.de/sp392015luz](http://spiegel.de/sp392015luz)
 - [spiegel.de/sp392015zweig](http://spiegel.de/sp392015zweig)
+
+
+### Der SPIEGEL - Die Videos der Ausgabe 36/2015
+- [spiegel.de/sp362015argumente](http://spiegel.de/sp362015argumente)
+- [spiegel.de/sp362015polio](http://spiegel.de/sp362015polio)
+- [spiegel.de/sp362015namibia](http://spiegel.de/sp362015namibia)
+- [spiegel.de/sp362015mandela](http://spiegel.de/sp362015mandela)
+- [spiegel.de/sp362015offroad](http://spiegel.de/sp362015offroad)
+- [spiegel.de/sp362015food](http://spiegel.de/sp362015food)
+- [spiegel.de/sp362015franzen](http://spiegel.de/sp362015franzen)
 
  
 ### Der SPIEGEL - Die Videos der Ausgabe 35/2015
