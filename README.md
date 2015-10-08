@@ -6,6 +6,15 @@ Seit einigen Jahren nun veröffentlicht *Der SPIEGEL* mit jeder Ausgabe *Videos*
 Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL App* nicht benutze, soll mein "Getippe" wenigstens anderen zugute kommen. Daher hier die Videos zu jeder Ausgabe, simpel als Text-Dokument, quasi als Anti-App ;) oder bis jemand hier ne App dazu baut... Für den ein oder anderen könnten diese direkten Links auch helfen, wenn die Videos aus der App nicht laufen oder aus irgend einem anderen Grund *nicht gehen*. Egal. Hier die Videos, manchmal komplett, manchmal nur das, was ich selbst geschaut habe:
 
 
+### Der SPIEGEL - Die Videos der Ausgabe 41/2015
+- [spiegel.de/sp412015vroniplag](http://spiegel.de/sp412015vroniplag)
+- [spiegel.de/sp412015eltern](http://spiegel.de/sp412015eltern)
+- [spiegel.de/sp412015hotel](http://spiegel.de/sp412015hotel)
+- [spiegel.de/sp412015syrien](http://spiegel.de/sp412015syrien)
+- [spiegel.de/sp412015burma](http://spiegel.de/sp412015burma)
+- [spiegel.de/sp412015bauer](http://spiegel.de/sp412015bauer)
+
+
 ### Der SPIEGEL - Die Videos der Ausgabe 40/2015
 - [spiegel.de/sp402015vw](http://spiegel.de/sp402015vw)
 - [spiegel.de/sp402015ddr](http://spiegel.de/sp402015ddr)
