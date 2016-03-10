@@ -7,7 +7,11 @@ Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL
 
 
 ### Der SPIEGEL - Die Videos der Ausgabe 10/2016
-- [spiegel.de/sp102016stuckradbarre](http://spiegel.de/sp102016stuckradbarre)
+- [spiegel.de/sp102016stuckradbarre](http://spiegel.de/sp102016stuckradbarre) Stuckrad-Barres "Panikherz"
+
+
+### Der SPIEGEL - Die Videos der Ausgabe 9/2016
+- [spiegel.de/sp092016auto](http://spiegel.de/sp092016auto) Das selbstfahrende Auto
 
 
 ### Der SPIEGEL - Die Videos der Ausgabe 51/2015
