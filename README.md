@@ -9,6 +9,9 @@ Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL
 ### Der SPIEGEL - Die Videos der Ausgabe 14/2016
 - [spiegel.de/sp142016china](http://spiegel.de/sp142016china)
 
+### Der SPIEGEL - Die Videos der Ausgabe 11/2016
+- [spiegel.de/sp112016testfahrt](http://spiegel.de/sp112016testfahrt)
+
 ### Der SPIEGEL - Die Videos der Ausgabe 10/2016
 - [spiegel.de/sp102016stuckradbarre](http://spiegel.de/sp102016stuckradbarre) Stuckrad-Barres "Panikherz"
 
