@@ -6,6 +6,14 @@ Seit einigen Jahren nun veröffentlicht *Der SPIEGEL* mit jeder Ausgabe *Videos*
 Da es *mir* schon schwer fällt, immer die URLs abzutippen, und ich die *SPIEGEL App* nicht benutze, soll mein "Getippe" wenigstens anderen zugute kommen. Daher hier die Videos zu jeder Ausgabe, simpel als Text-Dokument, quasi als Anti-App ;) oder bis jemand hier ne App dazu baut... Für den ein oder anderen könnten diese direkten Links auch helfen, wenn die Videos aus der App nicht laufen oder aus irgend einem anderen Grund *nicht gehen*. Egal. Hier die Videos, manchmal komplett, manchmal nur das, was ich selbst geschaut habe:
 
 
+### Der SPIEGEL - Die Videos der Ausgabe 28/2016
+- [http://spiegel.de/sp282016loew](http://spiegel.de/sp282016loew)
+- [http://spiegel.de/sp282016taxi](http://spiegel.de/sp282016taxi) Wüst über das London Taxi
+- [http://spiegel.de/sp282016ade](http://spiegel.de/sp282016ade)
+- [http://spiegel.de/sp282016filmkritik](http://spiegel.de/sp282016filmkritik) Roland Emmerich interview
+- [http://spiegel.de/sp282016generation](http://spiegel.de/sp282016generation)
+- [http://spiegel.de/sp282016raser](http://spiegel.de/sp282016raser)
+
 ### Der SPIEGEL - Die Videos der Ausgabe 22/2016
 - [http://spiegel.de/sp222016paris](http://spiegel.de/sp222016paris)
 
